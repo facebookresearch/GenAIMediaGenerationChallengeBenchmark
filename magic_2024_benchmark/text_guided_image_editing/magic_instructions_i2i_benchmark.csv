@@ -1,0 +1,1258 @@
+id,instruction_target_image,instruction_prompt,task,source
+edit_1,image_edit_magic_data/image_1.png,color the lemur green,inpaint,image_edit_meta
+edit_2,image_edit_magic_data/image_2.png,make the horse into a unicorn,global,image_edit_meta
+edit_3,image_edit_magic_data/image_3.png,insert a fish,add,image_edit_meta
+edit_4,image_edit_magic_data/image_4.png,turn elephant into dragon,local,image_edit_meta
+edit_5,image_edit_magic_data/image_5.png,put her in a snowy mountain,global,image_edit_meta
+edit_6,image_edit_magic_data/image_6.png,make it a sunny day,global,image_edit_meta
+edit_7,image_edit_magic_data/image_7.png,give it a warm and sunny day,global,image_edit_meta
+edit_8,image_edit_magic_data/image_8.png,replace the white coat with a black one,global,image_edit_meta
+edit_9,image_edit_magic_data/image_9.png,put him in a colosseum,global,image_edit_meta
+edit_10,image_edit_magic_data/image_10.png,give the cat a bow tie,global,image_edit_meta
+edit_11,image_edit_magic_data/image_11.png,make the beach a desert,global,image_edit_meta
+edit_12,image_edit_magic_data/image_12.png,change the background to a bustling city square,global,image_edit_meta
+edit_13,image_edit_magic_data/image_13.png,have her walk on water,global,image_edit_meta
+edit_14,image_edit_magic_data/image_14.png,more futuristic,global,image_edit_meta
+edit_15,image_edit_magic_data/image_15.png,have them holding hands,global,image_edit_meta
+edit_16,image_edit_magic_data/image_16.png,change their outfits to modern ones,global,image_edit_meta
+edit_17,image_edit_magic_data/image_17.png,have him be holding a surfboard,global,image_edit_meta
+edit_18,image_edit_magic_data/image_18.png,replace spaceship with a giant pizza,global,image_edit_meta
+edit_19,image_edit_magic_data/image_19.png,convert to a futuristic cyberpunk setting,global,image_edit_meta
+edit_20,image_edit_magic_data/image_20.png,convert the sweater to a jacket,global,image_edit_meta
+edit_21,image_edit_magic_data/image_21.png,turn the pencil into a crayon,global,image_edit_meta
+edit_22,image_edit_magic_data/image_22.png,make it Halloween theme,global,image_edit_meta
+edit_23,image_edit_magic_data/image_23.png,turn into a painting,global,image_edit_meta
+edit_24,image_edit_magic_data/image_24.png,have the sunset be a sunrise,global,image_edit_meta
+edit_25,image_edit_magic_data/image_25.png,replace the background with a cityscape,global,image_edit_meta
+edit_26,image_edit_magic_data/image_26.png,give it a fiery background,global,image_edit_meta
+edit_27,image_edit_magic_data/image_27.png,turn into a sunset,global,image_edit_meta
+edit_28,image_edit_magic_data/image_28.png,let's see her in a futuristic city,global,image_edit_meta
+edit_29,image_edit_magic_data/image_29.png,make the church a castle,global,image_edit_meta
+edit_30,image_edit_magic_data/image_30.png,convert the woman to a 3D model,global,image_edit_meta
+edit_31,image_edit_magic_data/image_31.png,have the model wear a hat,global,image_edit_meta
+edit_32,image_edit_magic_data/image_32.png,put them in a treehouse,global,image_edit_meta
+edit_33,image_edit_magic_data/image_33.png,place her on the moon,global,image_edit_meta
+edit_34,image_edit_magic_data/image_34.png,have the boy be a girl,global,image_edit_meta
+edit_35,image_edit_magic_data/image_35.png,turn into a mermaid,global,image_edit_meta
+edit_36,image_edit_magic_data/image_36.png,replace the pool with a lake,global,image_edit_meta
+edit_37,image_edit_magic_data/image_37.png,make the dress sparkle,global,image_edit_meta
+edit_38,image_edit_magic_data/image_38.png,make it a penguin,global,image_edit_meta
+edit_39,image_edit_magic_data/image_39.png,turn the book into a tablet,global,image_edit_meta
+edit_40,image_edit_magic_data/image_40.png,let's see him in a futuristic city,global,image_edit_meta
+edit_41,image_edit_magic_data/image_41.png,let's see her with a different hat,global,image_edit_meta
+edit_42,image_edit_magic_data/image_42.png,turn into a painting,global,image_edit_meta
+edit_43,image_edit_magic_data/image_43.png,convert to a futuristic cyborg,global,image_edit_meta
+edit_44,image_edit_magic_data/image_44.png,have her wear a winter hat,global,image_edit_meta
+edit_45,image_edit_magic_data/image_45.png,make her look at ancient scrolls,global,image_edit_meta
+edit_46,image_edit_magic_data/image_46.png,take the old man and put him in a modern city,global,image_edit_meta
+edit_47,image_edit_magic_data/image_47.png,replace the grass with a cloud,global,image_edit_meta
+edit_48,image_edit_magic_data/image_48.png,have her wear a superhero cape,global,image_edit_meta
+edit_49,image_edit_magic_data/image_49.png,have the puppy wear sunglasses,global,image_edit_meta
+edit_50,image_edit_magic_data/image_50.png,have the girl be in a restaurant,global,image_edit_meta
+edit_51,image_edit_magic_data/image_51.png,make it a color photo,global,image_edit_meta
+edit_52,image_edit_magic_data/image_52.png,change the location to a snowy mountain,global,image_edit_meta
+edit_53,image_edit_magic_data/image_53.png,make the boy a girl,global,image_edit_meta
+edit_54,image_edit_magic_data/image_54.png,make the masks into clown faces,global,image_edit_meta
+edit_55,image_edit_magic_data/image_55.png,make it more futuristic,global,image_edit_meta
+edit_56,image_edit_magic_data/image_56.png,turn the desert into a jungle,global,image_edit_meta
+edit_57,image_edit_magic_data/image_57.png,let's see them in a futuristic city,global,image_edit_meta
+edit_58,image_edit_magic_data/image_58.png,turn it into a golden dragon necklace,global,image_edit_meta
+edit_59,image_edit_magic_data/image_59.png,change the mask to animal faces,global,image_edit_meta
+edit_60,image_edit_magic_data/image_60.png,transform the pier into a treehouse,global,image_edit_meta
+edit_61,image_edit_magic_data/image_61.png,make it a sunset background,global,image_edit_meta
+edit_62,image_edit_magic_data/image_62.png,make the city look futuristic,global,image_edit_meta
+edit_63,image_edit_magic_data/image_63.png,have the flowers be made of candy,global,image_edit_meta
+edit_64,image_edit_magic_data/image_64.png,make it a vegan hamburger,global,image_edit_meta
+edit_65,image_edit_magic_data/image_65.png,have them wear winter clothes,global,image_edit_meta
+edit_66,image_edit_magic_data/image_66.png,replace Christmas tree with palm tree,global,image_edit_meta
+edit_67,image_edit_magic_data/image_67.png,have them be aliens,global,image_edit_meta
+edit_68,image_edit_magic_data/image_68.png,let's see it in a futuristic style,global,image_edit_meta
+edit_69,image_edit_magic_data/image_69.png,have him taste a different beverage,global,image_edit_meta
+edit_70,image_edit_magic_data/image_70.png,set her in a field of flowers,global,image_edit_meta
+edit_71,image_edit_magic_data/image_71.png,set it in a library,global,image_edit_meta
+edit_72,image_edit_magic_data/image_72.png,make it a train bridge,global,image_edit_meta
+edit_73,image_edit_magic_data/image_73.png,move the flower pot to a cliff,global,image_edit_meta
+edit_74,image_edit_magic_data/image_74.png,"replace the background with a dark, stone-brick wall",global,image_edit_meta
+edit_75,image_edit_magic_data/image_75.png,have him ride on water,global,image_edit_meta
+edit_76,image_edit_magic_data/image_76.png,replace the colored powder with sand,global,image_edit_meta
+edit_77,image_edit_magic_data/image_77.png,change dress to short,global,image_edit_meta
+edit_78,image_edit_magic_data/image_78.png,make it a portrait of a woman,global,image_edit_meta
+edit_79,image_edit_magic_data/image_79.png,change the background to a beach,global,image_edit_meta
+edit_80,image_edit_magic_data/image_80.png,give the doll a scary expression,global,image_edit_meta
+edit_81,image_edit_magic_data/image_81.png,set the scene in a dystopian future,global,image_edit_meta
+edit_82,image_edit_magic_data/image_82.png,make the couple into zombies,global,image_edit_meta
+edit_83,image_edit_magic_data/image_83.png,have them be in a band.,global,image_edit_meta
+edit_84,image_edit_magic_data/image_84.png,have the golden gate bridge be made of candy,global,image_edit_meta
+edit_85,image_edit_magic_data/image_85.png,change the office background to a beach,global,image_edit_meta
+edit_86,image_edit_magic_data/image_86.png,replace the garden with a beach,global,image_edit_meta
+edit_87,image_edit_magic_data/image_87.png,take away the mask,global,image_edit_meta
+edit_88,image_edit_magic_data/image_88.png,have a giant coffee cup appear next to him,global,image_edit_meta
+edit_89,image_edit_magic_data/image_89.png,fill the field with wildflowers,global,image_edit_meta
+edit_90,image_edit_magic_data/image_90.png,place her in a busy city square,global,image_edit_meta
+edit_91,image_edit_magic_data/image_91.png,have her hair turn into a giant snake,global,image_edit_meta
+edit_92,image_edit_magic_data/image_92.png,change the background to a beach,global,image_edit_meta
+edit_93,image_edit_magic_data/image_93.png,make it sunset,global,image_edit_meta
+edit_94,image_edit_magic_data/image_94.png,make the dragon breathe fire,global,image_edit_meta
+edit_95,image_edit_magic_data/image_95.png,have him hold a sword instead,global,image_edit_meta
+edit_96,image_edit_magic_data/image_96.png,have her pose in a futuristic cityscape,global,image_edit_meta
+edit_97,image_edit_magic_data/image_97.png,make the soup a casserole,global,image_edit_meta
+edit_98,image_edit_magic_data/image_98.png,transform the room into a jungle,global,image_edit_meta
+edit_99,image_edit_magic_data/image_99.png,turn into a painting,global,image_edit_meta
+edit_100,image_edit_magic_data/image_100.png,make them into a sandwich,global,image_edit_meta
+edit_101,image_edit_magic_data/image_101.png,replace the cat with a dog,global,image_edit_meta
+edit_102,image_edit_magic_data/image_102.png,have him be on a tropical island instead,global,image_edit_meta
+edit_103,image_edit_magic_data/image_103.png,make it a soccer stadium,global,image_edit_meta
+edit_104,image_edit_magic_data/image_104.png,give him a superhero cape,global,image_edit_meta
+edit_105,image_edit_magic_data/image_105.png,transform into a watercolor painting,global,image_edit_meta
+edit_106,image_edit_magic_data/image_106.png,add a piece of bread,add,image_edit_meta
+edit_107,image_edit_magic_data/image_107.png,append a trendy hat,add,image_edit_meta
+edit_108,image_edit_magic_data/image_108.png,incorporate a stunning sunset in the background.,add,image_edit_meta
+edit_109,image_edit_magic_data/image_109.png,insert a peacock feather in her hair,add,image_edit_meta
+edit_110,image_edit_magic_data/image_110.png,include a safari hat on the giraffe,add,image_edit_meta
+edit_111,image_edit_magic_data/image_111.png,add a pet cat alongside them,add,image_edit_meta
+edit_112,image_edit_magic_data/image_112.png,add a pair of sunglasses,add,image_edit_meta
+edit_113,image_edit_magic_data/image_113.png,alongside a majestic dolphin,add,image_edit_meta
+edit_114,image_edit_magic_data/image_114.png,add a witch hat on the ghost,add,image_edit_meta
+edit_115,image_edit_magic_data/image_115.png,add a bouquet of colorful flowers,add,image_edit_meta
+edit_116,image_edit_magic_data/image_116.png,insert a surfboard between them,add,image_edit_meta
+edit_117,image_edit_magic_data/image_117.png,put a beauty mask on the woman,add,image_edit_meta
+edit_118,image_edit_magic_data/image_118.png,integrate a golden crown,add,image_edit_meta
+edit_119,image_edit_magic_data/image_119.png,add a seagull flying alongside the lighthouse,add,image_edit_meta
+edit_120,image_edit_magic_data/image_120.png,Add a festive hat to the Christmas tree,add,image_edit_meta
+edit_121,image_edit_magic_data/image_121.png,add a toy to the shopping cart,add,image_edit_meta
+edit_122,image_edit_magic_data/image_122.png,put a guitar in his hands,add,image_edit_meta
+edit_123,image_edit_magic_data/image_123.png,add a seagull flying above the lake,add,image_edit_meta
+edit_124,image_edit_magic_data/image_124.png,have them hold a coffee cup,add,image_edit_meta
+edit_125,image_edit_magic_data/image_125.png,Have her hold a brush alongside the painting,add,image_edit_meta
+edit_126,image_edit_magic_data/image_126.png,place a toolbox alongside her,add,image_edit_meta
+edit_127,image_edit_magic_data/image_127.png,give the girl a hat,add,image_edit_meta
+edit_128,image_edit_magic_data/image_128.png,set a vintage camera on the pier,add,image_edit_meta
+edit_129,image_edit_magic_data/image_129.png,integrate a red barn,add,image_edit_meta
+edit_130,image_edit_magic_data/image_130.png,add a lovely blue scarf,add,image_edit_meta
+edit_131,image_edit_magic_data/image_131.png,add a crown to the young woman,add,image_edit_meta
+edit_132,image_edit_magic_data/image_132.png,add a gift box,add,image_edit_meta
+edit_133,image_edit_magic_data/image_133.png,add a Christmas tree in the background,add,image_edit_meta
+edit_134,image_edit_magic_data/image_134.png,set a champagne glass beside her.,add,image_edit_meta
+edit_135,image_edit_magic_data/image_135.png,append a vintage car,add,image_edit_meta
+edit_136,image_edit_magic_data/image_136.png,integrate a tiara on the daughter,add,image_edit_meta
+edit_137,image_edit_magic_data/image_137.png,incorporate a glowing crescent moon in the sky,add,image_edit_meta
+edit_138,image_edit_magic_data/image_138.png,include a bottle of wine and two glasses,add,image_edit_meta
+edit_139,image_edit_magic_data/image_139.png,add a traditional Japanese temple in the background,add,image_edit_meta
+edit_140,image_edit_magic_data/image_140.png,add a book to her hand,add,image_edit_meta
+edit_141,image_edit_magic_data/image_141.png,put a coffee cup on the table in front of her,add,image_edit_meta
+edit_142,image_edit_magic_data/image_142.png,add a fishing rod and fish to the boy,add,image_edit_meta
+edit_143,image_edit_magic_data/image_143.png,add a bindi on her forehead,add,image_edit_meta
+edit_144,image_edit_magic_data/image_144.png,have her hold a microphone,add,image_edit_meta
+edit_145,image_edit_magic_data/image_145.png,add a computer screen in front of them,add,image_edit_meta
+edit_146,image_edit_magic_data/image_146.png,insert a beach umbrella,add,image_edit_meta
+edit_147,image_edit_magic_data/image_147.png,add a basket of apples,add,image_edit_meta
+edit_148,image_edit_magic_data/image_148.png,put a water bottle in her hand,add,image_edit_meta
+edit_149,image_edit_magic_data/image_149.png,set them in a beautiful garden with colorful flowers,add,image_edit_meta
+edit_150,image_edit_magic_data/image_150.png,insert a pencil,add,image_edit_meta
+edit_151,image_edit_magic_data/image_151.png,have a canoe in the pond,add,image_edit_meta
+edit_152,image_edit_magic_data/image_152.png,insert a party hat on the middle dog,add,image_edit_meta
+edit_153,image_edit_magic_data/image_153.png,add a bottle of champagne,add,image_edit_meta
+edit_154,image_edit_magic_data/image_154.png,incorporate a colorful background,add,image_edit_meta
+edit_155,image_edit_magic_data/image_155.png,add a hair dryer to the scene,add,image_edit_meta
+edit_156,image_edit_magic_data/image_156.png,incorporate a flowing mane for the horse,add,image_edit_meta
+edit_157,image_edit_magic_data/image_157.png,append a small dog next to her,add,image_edit_meta
+edit_158,image_edit_magic_data/image_158.png,add a dollop of whipped cream on top of the front muffin,add,image_edit_meta
+edit_159,image_edit_magic_data/image_159.png,add a frisbee to the dog's mouth,add,image_edit_meta
+edit_160,image_edit_magic_data/image_160.png,put a wrench near the disc brake,add,image_edit_meta
+edit_161,image_edit_magic_data/image_161.png,integrate a saxophone player,add,image_edit_meta
+edit_162,image_edit_magic_data/image_162.png,insert a skateboard in the foreground,add,image_edit_meta
+edit_163,image_edit_magic_data/image_163.png,append 'avocado',add,image_edit_meta
+edit_164,image_edit_magic_data/image_164.png,add a safari hat on the leopard,add,image_edit_meta
+edit_165,image_edit_magic_data/image_165.png,add a dumbbell to the woman's hand,add,image_edit_meta
+edit_166,image_edit_magic_data/image_166.png,add a rainbow,add,image_edit_meta
+edit_167,image_edit_magic_data/image_167.png,add a book,add,image_edit_meta
+edit_168,image_edit_magic_data/image_168.png,add a couple taking a selfie in front of the house,add,image_edit_meta
+edit_169,image_edit_magic_data/image_169.png,put a pair of sunglasses on her,add,image_edit_meta
+edit_170,image_edit_magic_data/image_170.png,add a school of colorful fish swimming nearby,add,image_edit_meta
+edit_171,image_edit_magic_data/image_171.png,append a pair of sunglasses,add,image_edit_meta
+edit_172,image_edit_magic_data/image_172.png,integrate a butterfly on her hair,add,image_edit_meta
+edit_173,image_edit_magic_data/image_173.png,add a fishing rod and fish to the scene,add,image_edit_meta
+edit_174,image_edit_magic_data/image_174.png,have her hold a shell,add,image_edit_meta
+edit_175,image_edit_magic_data/image_175.png,incorporate a dog near the boy,add,image_edit_meta
+edit_176,image_edit_magic_data/image_176.png,add a crown,add,image_edit_meta
+edit_177,image_edit_magic_data/image_177.png,insert a snorkel and mask on the sea lion,add,image_edit_meta
+edit_178,image_edit_magic_data/image_178.png,add a sombrero on top,add,image_edit_meta
+edit_179,image_edit_magic_data/image_179.png,add a laptop in front of her,add,image_edit_meta
+edit_180,image_edit_magic_data/image_180.png,give her a book,add,image_edit_meta
+edit_181,image_edit_magic_data/image_181.png,add a smiling face,add,image_edit_meta
+edit_182,image_edit_magic_data/image_182.png,insert a hot air balloon in the sky,add,image_edit_meta
+edit_183,image_edit_magic_data/image_183.png,add a basket of eggs,add,image_edit_meta
+edit_184,image_edit_magic_data/image_184.png,add a golden necklace,add,image_edit_meta
+edit_185,image_edit_magic_data/image_185.png,add a life jacket,add,image_edit_meta
+edit_186,image_edit_magic_data/image_186.png,add a bottle of hot sauce,add,image_edit_meta
+edit_187,image_edit_magic_data/image_187.png,add a fishbowl,add,image_edit_meta
+edit_188,image_edit_magic_data/image_188.png,add a beach ball,add,image_edit_meta
+edit_189,image_edit_magic_data/image_189.png,change the girl's dress to blue,local,image_edit_meta
+edit_190,image_edit_magic_data/image_190.png,replace bride and groom with Kung Fu Panda and Tigress,local,image_edit_meta
+edit_191,image_edit_magic_data/image_191.png,change beignets to crepes,local,image_edit_meta
+edit_192,image_edit_magic_data/image_192.png,replace girl with a cat,local,image_edit_meta
+edit_193,image_edit_magic_data/image_193.png,replace curly hair with straight hair,local,image_edit_meta
+edit_194,image_edit_magic_data/image_194.png,replace dog with cat,local,image_edit_meta
+edit_195,image_edit_magic_data/image_195.png,make it a pug,local,image_edit_meta
+edit_196,image_edit_magic_data/image_196.png,give them animal masks,local,image_edit_meta
+edit_197,image_edit_magic_data/image_197.png,make him a girl,local,image_edit_meta
+edit_198,image_edit_magic_data/image_198.png,change blue to red,local,image_edit_meta
+edit_199,image_edit_magic_data/image_199.png,turn her into a princess,local,image_edit_meta
+edit_200,image_edit_magic_data/image_200.png,change cheongsam to a yellow sundress,local,image_edit_meta
+edit_201,image_edit_magic_data/image_201.png,make the nails look longer,local,image_edit_meta
+edit_202,image_edit_magic_data/image_202.png,make it a pink bear.,local,image_edit_meta
+edit_203,image_edit_magic_data/image_203.png,turn girl into boy,local,image_edit_meta
+edit_204,image_edit_magic_data/image_204.png,switch dress to pants,local,image_edit_meta
+edit_205,image_edit_magic_data/image_205.png,replace the pearl with a cellphone,local,image_edit_meta
+edit_206,image_edit_magic_data/image_206.png,swap showerhead to a flower,local,image_edit_meta
+edit_207,image_edit_magic_data/image_207.png,replace sword with a flower,local,image_edit_meta
+edit_208,image_edit_magic_data/image_208.png,change roses to daisies,local,image_edit_meta
+edit_209,image_edit_magic_data/image_209.png,change blue eyes to green eyes,local,image_edit_meta
+edit_210,image_edit_magic_data/image_210.png,turn the cow into a pig,local,image_edit_meta
+edit_211,image_edit_magic_data/image_211.png,have the teddy bear to be a real bear,local,image_edit_meta
+edit_212,image_edit_magic_data/image_212.png,make them wear sunglasses,local,image_edit_meta
+edit_213,image_edit_magic_data/image_213.png,have them wear dresses instead.,local,image_edit_meta
+edit_214,image_edit_magic_data/image_214.png,make the mobile phone into a toy car,local,image_edit_meta
+edit_215,image_edit_magic_data/image_215.png,replace girl with a seagull,local,image_edit_meta
+edit_216,image_edit_magic_data/image_216.png,replace the balloons with planets,local,image_edit_meta
+edit_217,image_edit_magic_data/image_217.png,replace candies with golden coins.,local,image_edit_meta
+edit_218,image_edit_magic_data/image_218.png,convert bird to rabbit,local,image_edit_meta
+edit_219,image_edit_magic_data/image_219.png,make her look like she's from the 1920s,local,image_edit_meta
+edit_220,image_edit_magic_data/image_220.png,make him look like a kid,local,image_edit_meta
+edit_221,image_edit_magic_data/image_221.png,replace the right man's face with a shark's face,local,image_edit_meta
+edit_222,image_edit_magic_data/image_222.png,swap traditional clothing with modern dress,local,image_edit_meta
+edit_223,image_edit_magic_data/image_223.png,swap birdhouse with lighthouse,local,image_edit_meta
+edit_224,image_edit_magic_data/image_224.png,replace dog with cat,local,image_edit_meta
+edit_225,image_edit_magic_data/image_225.png,have her smile,local,image_edit_meta
+edit_226,image_edit_magic_data/image_226.png,replace the dog with a cat,local,image_edit_meta
+edit_227,image_edit_magic_data/image_227.png,replace tree with a giant mushroom,local,image_edit_meta
+edit_228,image_edit_magic_data/image_228.png,make her look angry,local,image_edit_meta
+edit_229,image_edit_magic_data/image_229.png,change the color of the glitter to blue,local,image_edit_meta
+edit_230,image_edit_magic_data/image_230.png,change flowers to sunflowers,local,image_edit_meta
+edit_231,image_edit_magic_data/image_231.png,replace smoked salmon with bacon,local,image_edit_meta
+edit_232,image_edit_magic_data/image_232.png,turn man into a woman.,local,image_edit_meta
+edit_233,image_edit_magic_data/image_233.png,replace earphones with a horn.,local,image_edit_meta
+edit_234,image_edit_magic_data/image_234.png,replace corgi with pug,local,image_edit_meta
+edit_235,image_edit_magic_data/image_235.png,change the lighthouse to a castle,local,image_edit_meta
+edit_236,image_edit_magic_data/image_236.png,turn the scuba diver into a mermaid,local,image_edit_meta
+edit_237,image_edit_magic_data/image_237.png,replace helicopter with hot air balloon,local,image_edit_meta
+edit_238,image_edit_magic_data/image_238.png,make her hair pink,local,image_edit_meta
+edit_239,image_edit_magic_data/image_239.png,make the model look like a superhero,local,image_edit_meta
+edit_240,image_edit_magic_data/image_240.png,turn cap into a top hat,local,image_edit_meta
+edit_241,image_edit_magic_data/image_241.png,replace girl with a puppy,local,image_edit_meta
+edit_242,image_edit_magic_data/image_242.png,transform girl into a penguin,local,image_edit_meta
+edit_243,image_edit_magic_data/image_243.png,replace flowers with butterflies,local,image_edit_meta
+edit_244,image_edit_magic_data/image_244.png,replace blue eyes with green eyes,local,image_edit_meta
+edit_245,image_edit_magic_data/image_245.png,make her smile,local,image_edit_meta
+edit_246,image_edit_magic_data/image_246.png,convert mouse to a cat,local,image_edit_meta
+edit_247,image_edit_magic_data/image_247.png,replace gun with a flower.,local,image_edit_meta
+edit_248,image_edit_magic_data/image_248.png,make the dog a cat,local,image_edit_meta
+edit_249,image_edit_magic_data/image_249.png,make her happy with the choice of healthy or unhealthy food,local,image_edit_meta
+edit_250,image_edit_magic_data/image_250.png,switch jacket to t-shirt,local,image_edit_meta
+edit_251,image_edit_magic_data/image_251.png,replace the cat with a dog,local,image_edit_meta
+edit_252,image_edit_magic_data/image_252.png,make them aliens.,local,image_edit_meta
+edit_253,image_edit_magic_data/image_253.png,change cyclists to unicorns.,local,image_edit_meta
+edit_254,image_edit_magic_data/image_254.png,replace man with a cat,local,image_edit_meta
+edit_255,image_edit_magic_data/image_255.png,make her hair long again,local,image_edit_meta
+edit_256,image_edit_magic_data/image_256.png,make the dress green,local,image_edit_meta
+edit_257,image_edit_magic_data/image_257.png,replace the pug with a cat,local,image_edit_meta
+edit_258,image_edit_magic_data/image_258.png,make girl into boy,local,image_edit_meta
+edit_259,image_edit_magic_data/image_259.png,make waves bigger,local,image_edit_meta
+edit_260,image_edit_magic_data/image_260.png,replace the couple with a solo person,local,image_edit_meta
+edit_261,image_edit_magic_data/image_261.png,switch flowers to butterflies,local,image_edit_meta
+edit_262,image_edit_magic_data/image_262.png,change huge to tiny,local,image_edit_meta
+edit_263,image_edit_magic_data/image_263.png,have her wear a superhero cape,local,image_edit_meta
+edit_264,image_edit_magic_data/image_264.png,make them robots.,local,image_edit_meta
+edit_265,image_edit_magic_data/image_265.png,make them old.,local,image_edit_meta
+edit_266,image_edit_magic_data/image_266.png,replace house with castle,local,image_edit_meta
+edit_267,image_edit_magic_data/image_267.png,change the cup to a mug,local,image_edit_meta
+edit_268,image_edit_magic_data/image_268.png,morph man into a bird,local,image_edit_meta
+edit_269,image_edit_magic_data/image_269.png,replace champagne with beer,local,image_edit_meta
+edit_270,image_edit_magic_data/image_270.png,replace the cup with a guitar,local,image_edit_meta
+edit_271,image_edit_magic_data/image_271.png,replace girl with kangaroo.,local,image_edit_meta
+edit_272,image_edit_magic_data/image_272.png,replace elf with Santa,local,image_edit_meta
+edit_273,image_edit_magic_data/image_273.png,replace black caviar with green jelly,local,image_edit_meta
+edit_274,image_edit_magic_data/image_274.png,melt the ice cream,local,image_edit_meta
+edit_275,image_edit_magic_data/image_275.png,replace blue suit with red shirt,local,image_edit_meta
+edit_276,image_edit_magic_data/image_276.png,morph panda into cat,local,image_edit_meta
+edit_277,image_edit_magic_data/image_277.png,swap mountains for beach,local,image_edit_meta
+edit_278,image_edit_magic_data/image_278.png,morph terrier into a parrot,local,image_edit_meta
+edit_279,image_edit_magic_data/image_279.png,turn the car into a futuristic spaceship,local,image_edit_meta
+edit_280,image_edit_magic_data/image_280.png,replace diamond with pearl,local,image_edit_meta
+edit_281,image_edit_magic_data/image_281.png,make her look older,local,image_edit_meta
+edit_282,image_edit_magic_data/image_282.png,replace fish with cat,local,image_edit_meta
+edit_283,image_edit_magic_data/image_283.png,replace fried egg with avocado,local,image_edit_meta
+edit_284,image_edit_magic_data/image_284.png,replace dog with cat,local,image_edit_meta
+edit_285,image_edit_magic_data/image_285.png,replace fishing boat with pirate ship,local,image_edit_meta
+edit_286,image_edit_magic_data/image_286.png,switch mountains to beach,local,image_edit_meta
+edit_287,image_edit_magic_data/image_287.png,replace the beer with a bottle of ketchup,local,image_edit_meta
+edit_288,image_edit_magic_data/image_288.png,change dress to blue,local,image_edit_meta
+edit_289,image_edit_magic_data/image_289.png,change lake to ocean.,local,image_edit_meta
+edit_290,image_edit_magic_data/image_290.png,swap horse with dog,local,image_edit_meta
+edit_291,image_edit_magic_data/image_291.png,turn the man into a woman,local,image_edit_meta
+edit_292,image_edit_magic_data/image_292.png,change black panther to black elephant,local,image_edit_meta
+edit_293,image_edit_magic_data/image_293.png,change house to castle,local,image_edit_meta
+edit_294,image_edit_magic_data/image_294.png,swap flowers with butterflies,local,image_edit_meta
+edit_295,image_edit_magic_data/image_295.png,have her apply a face mask,local,image_edit_meta
+edit_296,image_edit_magic_data/image_296.png,have them wear sunglasses,local,image_edit_meta
+edit_297,image_edit_magic_data/image_297.png,have the workers be robots,local,image_edit_meta
+edit_298,image_edit_magic_data/image_298.png,turn hot springs into a giant pizza.,local,image_edit_meta
+edit_299,image_edit_magic_data/image_299.png,replace bacon with sausage,local,image_edit_meta
+edit_300,image_edit_magic_data/image_300.png,replace palace with castle,local,image_edit_meta
+edit_301,image_edit_magic_data/image_301.png,make her look older.,local,image_edit_meta
+edit_302,image_edit_magic_data/image_302.png,replace the dog with a cat,local,image_edit_meta
+edit_303,image_edit_magic_data/image_303.png,replace the women with men.,local,image_edit_meta
+edit_304,image_edit_magic_data/image_304.png,replace raw salmon with cooked salmon,local,image_edit_meta
+edit_305,image_edit_magic_data/image_305.png,replace bird with a dog,local,image_edit_meta
+edit_306,image_edit_magic_data/image_306.png,make them into penguins.,local,image_edit_meta
+edit_307,image_edit_magic_data/image_307.png,switch luxurious red wedding dress to a casual black dress,local,image_edit_meta
+edit_308,image_edit_magic_data/image_308.png,replace the man with a giraffe,local,image_edit_meta
+edit_309,image_edit_magic_data/image_309.png,turn poppy into a heart.,local,image_edit_meta
+edit_310,image_edit_magic_data/image_310.png,turn man into a woman,local,image_edit_meta
+edit_311,image_edit_magic_data/image_311.png,morph bat into a cat,local,image_edit_meta
+edit_312,image_edit_magic_data/image_312.png,replace birds with butterflies,local,image_edit_meta
+edit_313,image_edit_magic_data/image_313.png,replace doll with a cat,local,image_edit_meta
+edit_314,image_edit_magic_data/image_314.png,replace paddle board with a magic carpet,local,image_edit_meta
+edit_315,image_edit_magic_data/image_315.png,change girl to robot,local,image_edit_meta
+edit_316,image_edit_magic_data/image_316.png,change girl to boy,local,image_edit_meta
+edit_317,image_edit_magic_data/image_317.png,replace brush with a pencil,local,image_edit_meta
+edit_318,image_edit_magic_data/image_318.png,morph girl into a puppy,local,image_edit_meta
+edit_319,image_edit_magic_data/image_319.png,make them look like they are from the 1920s,local,image_edit_meta
+edit_320,image_edit_magic_data/image_320.png,make her hair red.,local,image_edit_meta
+edit_321,image_edit_magic_data/image_321.png,replace pita bread with a pizza,local,image_edit_meta
+edit_322,image_edit_magic_data/image_322.png,replace snow with cherry blossoms,local,image_edit_meta
+edit_323,image_edit_magic_data/image_323.png,make wall into rainbow stripes,local,image_edit_meta
+edit_324,image_edit_magic_data/image_324.png,change the statue's hand to hold a fish,local,image_edit_meta
+edit_325,image_edit_magic_data/image_325.png,replace girl with Santa Claus,local,image_edit_meta
+edit_326,image_edit_magic_data/image_326.png,make her hair red,local,image_edit_meta
+edit_327,image_edit_magic_data/image_327.png,make her hair shorter,local,image_edit_meta
+edit_328,image_edit_magic_data/image_328.png,turn the dog into a cat,local,image_edit_meta
+edit_329,image_edit_magic_data/image_329.png,replace christmas tree with a potted plant.,local,image_edit_meta
+edit_330,image_edit_magic_data/image_330.png,switch woman with bear,local,image_edit_meta
+edit_331,image_edit_magic_data/image_331.png,replace tomatoes with potatoes,local,image_edit_meta
+edit_332,image_edit_magic_data/image_332.png,replace villas to huts.,local,image_edit_meta
+edit_333,image_edit_magic_data/image_333.png,give her a hat,local,image_edit_meta
+edit_334,image_edit_magic_data/image_334.png,replace lollipop with a flower,local,image_edit_meta
+edit_335,image_edit_magic_data/image_335.png,replace wildebeest with elephants,local,image_edit_meta
+edit_336,image_edit_magic_data/image_336.png,make her hair shorter,local,image_edit_meta
+edit_337,image_edit_magic_data/image_337.png,replace dog with cat,local,image_edit_meta
+edit_338,image_edit_magic_data/image_338.png,have him to be sleeping on a couch instead,local,image_edit_meta
+edit_339,image_edit_magic_data/image_339.png,change her hair to black and her lips to green,local,image_edit_meta
+edit_340,image_edit_magic_data/image_340.png,make her a ghost,local,image_edit_meta
+edit_341,image_edit_magic_data/image_341.png,turn red hair into purple hair,local,image_edit_meta
+edit_342,image_edit_magic_data/image_342.png,swap the plant with a cat,local,image_edit_meta
+edit_343,image_edit_magic_data/image_343.png,make her lips more purple,local,image_edit_meta
+edit_344,image_edit_magic_data/image_344.png,make him look older,local,image_edit_meta
+edit_345,image_edit_magic_data/image_345.png,replace the sword with a flower,local,image_edit_meta
+edit_346,image_edit_magic_data/image_346.png,change location to machu picchu,local,image_edit_meta
+edit_347,image_edit_magic_data/image_347.png,change dolphin to whale,local,image_edit_meta
+edit_348,image_edit_magic_data/image_348.png,switch nuts to bolts,local,image_edit_meta
+edit_349,image_edit_magic_data/image_349.png,colorize the statue,local,image_edit_meta
+edit_350,image_edit_magic_data/image_350.png,have him to be eating a sandwich,local,image_edit_meta
+edit_351,image_edit_magic_data/image_351.png,replace great blue heron with bald eagle,local,image_edit_meta
+edit_352,image_edit_magic_data/image_352.png,have him to be on fire.,local,image_edit_meta
+edit_353,image_edit_magic_data/image_353.png,make it a pina colada,local,image_edit_meta
+edit_354,image_edit_magic_data/image_354.png,replace potatoes with carrots,local,image_edit_meta
+edit_355,image_edit_magic_data/image_355.png,turn him into a woman.,local,image_edit_meta
+edit_356,image_edit_magic_data/image_356.png,turn the roof into a beach,local,image_edit_meta
+edit_357,image_edit_magic_data/image_357.png,replace the car with a hot air balloon,local,image_edit_meta
+edit_358,image_edit_magic_data/image_358.png,replace the dog with a cat,local,image_edit_meta
+edit_359,image_edit_magic_data/image_359.png,turn man into a woman.,local,image_edit_meta
+edit_360,image_edit_magic_data/image_360.png,turn the women into men,local,image_edit_meta
+edit_361,image_edit_magic_data/image_361.png,turn champagne into a wedding cake,local,image_edit_meta
+edit_362,image_edit_magic_data/image_362.png,replace hearts with music notes,local,image_edit_meta
+edit_363,image_edit_magic_data/image_363.png,change church to castle,local,image_edit_meta
+edit_364,image_edit_magic_data/image_364.png,replace hat with sunglasses,local,image_edit_meta
+edit_365,image_edit_magic_data/image_365.png,turn the mirror into a portal,local,image_edit_meta
+edit_366,image_edit_magic_data/image_366.png,replace broccoli with pizza,local,image_edit_meta
+edit_367,image_edit_magic_data/image_367.png,make them adults,local,image_edit_meta
+edit_368,image_edit_magic_data/image_368.png,replace man with a woman,local,image_edit_meta
+edit_369,image_edit_magic_data/image_369.png,replace people with dogs,local,image_edit_meta
+edit_370,image_edit_magic_data/image_370.png,replace glasses with sunglasses,local,image_edit_meta
+edit_371,image_edit_magic_data/image_371.png,change his shirt to black,local,image_edit_meta
+edit_372,image_edit_magic_data/image_372.png,replace baby with kitten,local,image_edit_meta
+edit_373,image_edit_magic_data/image_373.png,change road bike to unicycle,local,image_edit_meta
+edit_374,image_edit_magic_data/image_374.png,have her wear a red bodysuit instead of black,local,image_edit_meta
+edit_375,image_edit_magic_data/image_375.png,make him cry.,local,image_edit_meta
+edit_376,image_edit_magic_data/image_376.png,make penguin wear sunglasses,local,image_edit_meta
+edit_377,image_edit_magic_data/image_377.png,replace chocolate cookies with macarons,local,image_edit_meta
+edit_378,image_edit_magic_data/image_378.png,change young to old.,local,image_edit_meta
+edit_379,image_edit_magic_data/image_379.png,make her a mermaid,local,image_edit_meta
+edit_380,image_edit_magic_data/image_380.png,swap hair to straight,local,image_edit_meta
+edit_381,image_edit_magic_data/image_381.png,make them ninjas.,local,image_edit_meta
+edit_382,image_edit_magic_data/image_382.png,replace man with a horse,local,image_edit_meta
+edit_383,image_edit_magic_data/image_383.png,make the Eiffel Tower into a giant pineapple.,local,image_edit_meta
+edit_384,image_edit_magic_data/image_384.png,make her hair curly,local,image_edit_meta
+edit_385,image_edit_magic_data/image_385.png,replace kale with spinach,local,image_edit_meta
+edit_386,image_edit_magic_data/image_386.png,change her eyes to green.,local,image_edit_meta
+edit_387,image_edit_magic_data/image_387.png,replace the sea with a desert,local,image_edit_meta
+edit_388,image_edit_magic_data/image_388.png,make her dress pink,local,image_edit_meta
+edit_389,image_edit_magic_data/image_389.png,change amethyst to emerald,local,image_edit_meta
+edit_390,image_edit_magic_data/image_390.png,make her smile,local,image_edit_meta
+edit_391,image_edit_magic_data/image_391.png,replace the sun with a pizza,local,image_edit_meta
+edit_392,image_edit_magic_data/image_392.png,make it a great dane,local,image_edit_meta
+edit_393,image_edit_magic_data/image_393.png,swap go-go dancers with penguins,local,image_edit_meta
+edit_394,image_edit_magic_data/image_394.png,give her a superhero cape.,local,image_edit_meta
+edit_395,image_edit_magic_data/image_395.png,replace flower diadem with a pacifier,local,image_edit_meta
+edit_396,image_edit_magic_data/image_396.png,make the model have red hair.,local,image_edit_meta
+edit_397,image_edit_magic_data/image_397.png,transform the belly dancer into a mermaid,local,image_edit_meta
+edit_398,image_edit_magic_data/image_398.png,have her smile,local,image_edit_meta
+edit_399,image_edit_magic_data/image_399.png,replace roses with daisies,local,image_edit_meta
+edit_400,image_edit_magic_data/image_400.png,make her smile,local,image_edit_meta
+edit_401,image_edit_magic_data/image_401.png,replace the girls with two muscular men,local,image_edit_meta
+edit_402,image_edit_magic_data/image_402.png,have her to be a mermaid,local,image_edit_meta
+edit_403,image_edit_magic_data/image_403.png,replace candle with flower,local,image_edit_meta
+edit_404,image_edit_magic_data/image_404.png,make her hair pink,local,image_edit_meta
+edit_405,image_edit_magic_data/image_405.png,replace statue with a real native american woman.,local,image_edit_meta
+edit_406,image_edit_magic_data/image_406.png,make her hair blue,local,image_edit_meta
+edit_407,image_edit_magic_data/image_407.png,have him to be wearing a bow tie,local,image_edit_meta
+edit_408,image_edit_magic_data/image_408.png,change bacon to sausage,local,image_edit_meta
+edit_409,image_edit_magic_data/image_409.png,change cafe to beach,local,image_edit_meta
+edit_410,image_edit_magic_data/image_410.png,replace terrier with shark,local,image_edit_meta
+edit_411,image_edit_magic_data/image_411.png,make cyclist into a cat.,local,image_edit_meta
+edit_412,image_edit_magic_data/image_412.png,straighten hair,local,image_edit_meta
+edit_413,image_edit_magic_data/image_413.png,change beard to mustache,local,image_edit_meta
+edit_414,image_edit_magic_data/image_414.png,make the boy's shirt have a cartoon character on it,local,image_edit_meta
+edit_415,image_edit_magic_data/image_415.png,change beer to juice,local,image_edit_meta
+edit_416,image_edit_magic_data/image_416.png,turn horse into unicorn,local,image_edit_meta
+edit_417,image_edit_magic_data/image_417.png,have her hair to be short and straight,local,image_edit_meta
+edit_418,image_edit_magic_data/image_418.png,replace the statue of liberty with a giant pineapple,local,image_edit_meta
+edit_419,image_edit_magic_data/image_419.png,make the man's hair and beard green,local,image_edit_meta
+edit_420,image_edit_magic_data/image_420.png,make her hair shorter,local,image_edit_meta
+edit_421,image_edit_magic_data/image_421.png,turn wreath into a spooky ghost.,local,image_edit_meta
+edit_422,image_edit_magic_data/image_422.png,replace girl with a boy,local,image_edit_meta
+edit_423,image_edit_magic_data/image_423.png,change bicycle to skateboard,local,image_edit_meta
+edit_424,image_edit_magic_data/image_424.png,change black sand to golden sand,local,image_edit_meta
+edit_425,image_edit_magic_data/image_425.png,replace the young man with a cartoon character,local,image_edit_meta
+edit_426,image_edit_magic_data/image_426.png,transform dog into a cat,local,image_edit_meta
+edit_427,image_edit_magic_data/image_427.png,change her eyes to blue,local,image_edit_meta
+edit_428,image_edit_magic_data/image_428.png,turn one motorcyclist into a giraffe,local,image_edit_meta
+edit_429,image_edit_magic_data/image_429.png,replace the dress with a sari,local,image_edit_meta
+edit_430,image_edit_magic_data/image_430.png,change the flowers to daisies,local,image_edit_meta
+edit_431,image_edit_magic_data/image_431.png,incorporate a glowing orb,add,image_edit_meta
+edit_432,image_edit_magic_data/image_432.png,add a creepy clown,add,image_edit_meta
+edit_433,image_edit_magic_data/image_433.png,insert a fish beside the old man.,add,image_edit_meta
+edit_434,image_edit_magic_data/image_434.png,add a pair of sunglasses,add,image_edit_meta
+edit_435,image_edit_magic_data/image_435.png,add a stethoscope around her neck,add,image_edit_meta
+edit_436,image_edit_magic_data/image_436.png,append a glowing moon,add,image_edit_meta
+edit_437,image_edit_magic_data/image_437.png,add a guitar to the young man,add,image_edit_meta
+edit_438,image_edit_magic_data/image_438.png,place a surfboard under the elephant,add,image_edit_meta
+edit_439,image_edit_magic_data/image_439.png,add a whistle,add,image_edit_meta
+edit_440,image_edit_magic_data/image_440.png,have him eat a slice of pizza,add,image_edit_meta
+edit_441,image_edit_magic_data/image_441.png,add a bird flying alongside the mountain biker,add,image_edit_meta
+edit_442,image_edit_magic_data/image_442.png,add a beach ball,add,image_edit_meta
+edit_443,image_edit_magic_data/image_443.png,make her hair longer,local,image_edit_meta
+edit_444,image_edit_magic_data/image_444.png,change the background to cityscape at sunset,background,image_edit_meta
+edit_445,image_edit_magic_data/image_445.png,replace the background with a garden,background,image_edit_meta
+edit_446,image_edit_magic_data/image_446.png,make their shirts green,local,image_edit_meta
+edit_447,image_edit_magic_data/image_447.png,change the color of the cap from red to blue,inpaint,image_edit_meta
+edit_448,image_edit_magic_data/image_448.png,include a flower crown,add,image_edit_meta
+edit_449,image_edit_magic_data/image_449.png,put a bookshelf in the background,add,image_edit_meta
+edit_450,image_edit_magic_data/image_450.png,give the boy a toy bow and arrow,add,image_edit_meta
+edit_451,image_edit_magic_data/image_451.png,add a group of seagulls flying above the yacht,add,image_edit_meta
+edit_452,image_edit_magic_data/image_452.png,add a scarf,add,image_edit_meta
+edit_453,image_edit_magic_data/image_453.png,incorporate a shooting star,add,image_edit_meta
+edit_454,image_edit_magic_data/image_454.png,put a pair of sunglasses on her.,add,image_edit_meta
+edit_455,image_edit_magic_data/image_455.png,include a rainbow,add,image_edit_meta
+edit_456,image_edit_magic_data/image_456.png,add a golden crown to one of the angels,add,image_edit_meta
+edit_457,image_edit_magic_data/image_457.png,append a pair of sunglasses,add,image_edit_meta
+edit_458,image_edit_magic_data/image_458.png,add a book on the couch,add,image_edit_meta
+edit_459,image_edit_magic_data/image_459.png,add a group of deer on the side of the train.,add,image_edit_meta
+edit_460,image_edit_magic_data/image_460.png,add a rose in her hair,add,image_edit_meta
+edit_461,image_edit_magic_data/image_461.png,place a fashionable hat on the models,add,image_edit_meta
+edit_462,image_edit_magic_data/image_462.png,add a shopping list alongside them,add,image_edit_meta
+edit_463,image_edit_magic_data/image_463.png,place a small dragon near the dwarf warrior,add,image_edit_meta
+edit_464,image_edit_magic_data/image_464.png,add a plate of dim sum,add,image_edit_meta
+edit_465,image_edit_magic_data/image_465.png,add a pair of sunglasses,add,image_edit_meta
+edit_466,image_edit_magic_data/image_466.png,give the princess a wand,add,image_edit_meta
+edit_467,image_edit_magic_data/image_467.png,add a beautiful flower crown on her head,add,image_edit_meta
+edit_468,image_edit_magic_data/image_468.png,insert a scooter in the street,add,image_edit_meta
+edit_469,image_edit_magic_data/image_469.png,add a dash of parsley alongside the croutons,add,image_edit_meta
+edit_470,image_edit_magic_data/image_470.png,have her carry a beach umbrella,add,image_edit_meta
+edit_471,image_edit_magic_data/image_471.png,place a spoon near the bucket,add,image_edit_meta
+edit_472,image_edit_magic_data/image_472.png,put a ski lift on the mountain,add,image_edit_meta
+edit_473,image_edit_magic_data/image_473.png,add a treasure chest near him,add,image_edit_meta
+edit_474,image_edit_magic_data/image_474.png,incorporate a magnifying glass,add,image_edit_meta
+edit_475,image_edit_magic_data/image_475.png,change her eye color to green,add,image_edit_meta
+edit_476,image_edit_magic_data/image_476.png,have her wear a golden necklace,add,image_edit_meta
+edit_477,image_edit_magic_data/image_477.png,add a fish to the woman's hand,add,image_edit_meta
+edit_478,image_edit_magic_data/image_478.png,add a film camera on the side,add,image_edit_meta
+edit_479,image_edit_magic_data/image_479.png,integrate a bird's nest on the tree,add,image_edit_meta
+edit_480,image_edit_magic_data/image_480.png,set a hat on her head,add,image_edit_meta
+edit_481,image_edit_magic_data/image_481.png,Have her hold a bouquet of sunflowers instead of one.,add,image_edit_meta
+edit_482,image_edit_magic_data/image_482.png,add a hobbit holding a fishing rod next to the road sign,add,image_edit_meta
+edit_483,image_edit_magic_data/image_483.png,integrate a cabin in the mountains,add,image_edit_meta
+edit_484,image_edit_magic_data/image_484.png,insert a cat nearby,add,image_edit_meta
+edit_485,image_edit_magic_data/image_485.png,put a beach ball in the father's hand,add,image_edit_meta
+edit_486,image_edit_magic_data/image_486.png,change the background to a minimalist home office,background,image_edit_meta
+edit_487,image_edit_magic_data/image_487.png,transform the background to a cozy living room,background,image_edit_meta
+edit_488,image_edit_magic_data/image_488.png,change the background to a futuristic cityscape,background,image_edit_meta
+edit_489,image_edit_magic_data/image_489.png,replace the background with a winter wonderland,background,image_edit_meta
+edit_490,image_edit_magic_data/image_490.png,create a sunset background,background,image_edit_meta
+edit_491,image_edit_magic_data/image_491.png,set the background to winter wonderland,background,image_edit_meta
+edit_492,image_edit_magic_data/image_492.png,set the background to beach at sunset,background,image_edit_meta
+edit_493,image_edit_magic_data/image_493.png,modify the background to a beachfront,background,image_edit_meta
+edit_494,image_edit_magic_data/image_494.png,replace the background with a luxury yacht,background,image_edit_meta
+edit_495,image_edit_magic_data/image_495.png,move the background to a field of flowers,background,image_edit_meta
+edit_496,image_edit_magic_data/image_496.png,change the background to cityscape,background,image_edit_meta
+edit_497,image_edit_magic_data/image_497.png,replace the background with a luxury resort,background,image_edit_meta
+edit_498,image_edit_magic_data/image_498.png,change the background to mountain,background,image_edit_meta
+edit_499,image_edit_magic_data/image_499.png,set the background to castle,background,image_edit_meta
+edit_500,image_edit_magic_data/image_500.png,move the background to a luxury bedroom,background,image_edit_meta
+edit_501,image_edit_magic_data/image_501.png,replace the background with a cityscape,background,image_edit_meta
+edit_502,image_edit_magic_data/image_502.png,replace the background with a city skyline at sunset,background,image_edit_meta
+edit_503,image_edit_magic_data/image_503.png,transform the background to luxury resort,background,image_edit_meta
+edit_504,image_edit_magic_data/image_504.png,change the background to cityscape at night,background,image_edit_meta
+edit_505,image_edit_magic_data/image_505.png,transfer the scene to a peaceful monastery,background,image_edit_meta
+edit_506,image_edit_magic_data/image_506.png,replace the background with a beach,background,image_edit_meta
+edit_507,image_edit_magic_data/image_507.png,replace the background with a mystical forest,background,image_edit_meta
+edit_508,image_edit_magic_data/image_508.png,swap the background with a sunset,background,image_edit_meta
+edit_509,image_edit_magic_data/image_509.png,replace the background with a cozy bedroom,background,image_edit_meta
+edit_510,image_edit_magic_data/image_510.png,set the background to a playground,background,image_edit_meta
+edit_511,image_edit_magic_data/image_511.png,alter the background to a winter wonderland,background,image_edit_meta
+edit_512,image_edit_magic_data/image_512.png,transport the couple to a magical forest,background,image_edit_meta
+edit_513,image_edit_magic_data/image_513.png,change the background to cityscape,background,image_edit_meta
+edit_514,image_edit_magic_data/image_514.png,set the background to a child's bedroom,background,image_edit_meta
+edit_515,image_edit_magic_data/image_515.png,change the background to mountain,background,image_edit_meta
+edit_516,image_edit_magic_data/image_516.png,change the background to a cozy bedroom,background,image_edit_meta
+edit_517,image_edit_magic_data/image_517.png,add a sunset to the background,background,image_edit_meta
+edit_518,image_edit_magic_data/image_518.png,make the background ocean,background,image_edit_meta
+edit_519,image_edit_magic_data/image_519.png,set the background to ranch,background,image_edit_meta
+edit_520,image_edit_magic_data/image_520.png,replace the background with a colorful festival setting,background,image_edit_meta
+edit_521,image_edit_magic_data/image_521.png,change the background to a magical forest,background,image_edit_meta
+edit_522,image_edit_magic_data/image_522.png,change the background to a mountainous region,background,image_edit_meta
+edit_523,image_edit_magic_data/image_523.png,replace the background with a luxurious hotel lobby,background,image_edit_meta
+edit_524,image_edit_magic_data/image_524.png,change the background to a beach,background,image_edit_meta
+edit_525,image_edit_magic_data/image_525.png,replace the background with a beach,background,image_edit_meta
+edit_526,image_edit_magic_data/image_526.png,change the background to beach,background,image_edit_meta
+edit_527,image_edit_magic_data/image_527.png,exchange the background with a tranquil lake,background,image_edit_meta
+edit_528,image_edit_magic_data/image_528.png,change the background to a garden,background,image_edit_meta
+edit_529,image_edit_magic_data/image_529.png,replace the background with a peaceful mountain,background,image_edit_meta
+edit_530,image_edit_magic_data/image_530.png,swap the background to beach,background,image_edit_meta
+edit_531,image_edit_magic_data/image_531.png,modify the background to a cityscape at sunset,background,image_edit_meta
+edit_532,image_edit_magic_data/image_532.png,change the background to castle,background,image_edit_meta
+edit_533,image_edit_magic_data/image_533.png,replace the background with a peaceful beach scenery,background,image_edit_meta
+edit_534,image_edit_magic_data/image_534.png,create a winter wonderland scene,background,image_edit_meta
+edit_535,image_edit_magic_data/image_535.png,replace the background with a colorful festival scene,background,image_edit_meta
+edit_536,image_edit_magic_data/image_536.png,replace the background with a mountain range,background,image_edit_meta
+edit_537,image_edit_magic_data/image_537.png,replace the background with a bustling city square,background,image_edit_meta
+edit_538,image_edit_magic_data/image_538.png,make the background space-themed,background,image_edit_meta
+edit_539,image_edit_magic_data/image_539.png,change the background to galaxy,background,image_edit_meta
+edit_540,image_edit_magic_data/image_540.png,set the background to ancient ruins,background,image_edit_meta
+edit_541,image_edit_magic_data/image_541.png,change the background to construction site,background,image_edit_meta
+edit_542,image_edit_magic_data/image_542.png,change the background to a vineyard,background,image_edit_meta
+edit_543,image_edit_magic_data/image_543.png,change the background to a cozy coffee shop,background,image_edit_meta
+edit_544,image_edit_magic_data/image_544.png,replace the background with a futuristic cityscape,background,image_edit_meta
+edit_545,image_edit_magic_data/image_545.png,replace the background with a city skyline,background,image_edit_meta
+edit_546,image_edit_magic_data/image_546.png,transform the background into a luxury hotel lobby,background,image_edit_meta
+edit_547,image_edit_magic_data/image_547.png,set the background to beach,background,image_edit_meta
+edit_548,image_edit_magic_data/image_548.png,set the background to a vintage car garage,background,image_edit_meta
+edit_549,image_edit_magic_data/image_549.png,change the background to urban cityscape,background,image_edit_meta
+edit_550,image_edit_magic_data/image_550.png,relocate the scene to a beach,background,image_edit_meta
+edit_551,image_edit_magic_data/image_551.png,replace the background with a vintage car,background,image_edit_meta
+edit_552,image_edit_magic_data/image_552.png,make the background sunset.,background,image_edit_meta
+edit_553,image_edit_magic_data/image_553.png,transform the background into a royal palace,background,image_edit_meta
+edit_554,image_edit_magic_data/image_554.png,change the background to winter wonderland,background,image_edit_meta
+edit_555,image_edit_magic_data/image_555.png,set the background to dark cityscape,background,image_edit_meta
+edit_556,image_edit_magic_data/image_556.png,transform the background into Taj Mahal,background,image_edit_meta
+edit_557,image_edit_magic_data/image_557.png,replace the background with cityscape at night,background,image_edit_meta
+edit_558,image_edit_magic_data/image_558.png,make the background colorful and playful,background,image_edit_meta
+edit_559,image_edit_magic_data/image_559.png,replace the background with a cityscape at sunset,background,image_edit_meta
+edit_560,image_edit_magic_data/image_560.png,replace the background with a living room,background,image_edit_meta
+edit_561,image_edit_magic_data/image_561.png,change the background to a desert,global,image_edit_meta
+edit_562,image_edit_magic_data/image_562.png,replace the background with a starry night sky,background,image_edit_meta
+edit_563,image_edit_magic_data/image_563.png,let's see it in a futuristic setting,global,image_edit_meta
+edit_564,image_edit_magic_data/image_564.png,make the pool water green,inpaint,image_edit_meta
+edit_565,image_edit_magic_data/image_565.png,remove the fish,remove,image_edit_meta
+edit_566,image_edit_magic_data/image_566.png,Set the background to outer space,background,image_edit_meta
+edit_567,image_edit_magic_data/image_567.png,change the background to a colorful abstract design,background,image_edit_meta
+edit_568,image_edit_magic_data/image_568.png,make the background a playroom,background,image_edit_meta
+edit_569,image_edit_magic_data/image_569.png,modify the background to a winter wonderland,background,image_edit_meta
+edit_570,image_edit_magic_data/image_570.png,replace the background with a spooky haunted house,background,image_edit_meta
+edit_571,image_edit_magic_data/image_571.png,replace the background with a peaceful beach,background,image_edit_meta
+edit_572,image_edit_magic_data/image_572.png,set the background to a fashion runway,background,image_edit_meta
+edit_573,image_edit_magic_data/image_573.png,make the background snowy mountain,background,image_edit_meta
+edit_574,image_edit_magic_data/image_574.png,swap the background to a peaceful village,background,image_edit_meta
+edit_575,image_edit_magic_data/image_575.png,replace the background with a peaceful nature scene,background,image_edit_meta
+edit_576,image_edit_magic_data/image_576.png,alter the background to beach,background,image_edit_meta
+edit_577,image_edit_magic_data/image_577.png,make the background a beach,background,image_edit_meta
+edit_578,image_edit_magic_data/image_578.png,set the background to a beach,background,image_edit_meta
+edit_579,image_edit_magic_data/image_579.png,Transport the background to a magical forest,background,image_edit_meta
+edit_580,image_edit_magic_data/image_580.png,change the background to a desert oasis,background,image_edit_meta
+edit_581,image_edit_magic_data/image_581.png,"replace the background with a cute, colorful pattern",background,image_edit_meta
+edit_582,image_edit_magic_data/image_582.png,replace the background with beach,background,image_edit_meta
+edit_583,image_edit_magic_data/image_583.png,replace the background with beauty salon,background,image_edit_meta
+edit_584,image_edit_magic_data/image_584.png,change the background to a baseball field,background,image_edit_meta
+edit_585,image_edit_magic_data/image_585.png,change the background to a modern laundry room,background,image_edit_meta
+edit_586,image_edit_magic_data/image_586.png,replace the background with a luxury hotel lobby,background,image_edit_meta
+edit_587,image_edit_magic_data/image_587.png,make the background sunset,background,image_edit_meta
+edit_588,image_edit_magic_data/image_588.png,change the background to a garden,background,image_edit_meta
+edit_589,image_edit_magic_data/image_589.png,make the background a haunted mansion,background,image_edit_meta
+edit_590,image_edit_magic_data/image_590.png,replace the background with a luxury hotel lobby,background,image_edit_meta
+edit_591,image_edit_magic_data/image_591.png,set the background to winter wonderland,background,image_edit_meta
+edit_592,image_edit_magic_data/image_592.png,make the background a luxury hotel lobby,background,image_edit_meta
+edit_593,image_edit_magic_data/image_593.png,make the background a romantic dinner setting,background,image_edit_meta
+edit_594,image_edit_magic_data/image_594.png,change the background to cityscape,background,image_edit_meta
+edit_595,image_edit_magic_data/image_595.png,convert the background to magical forest,background,image_edit_meta
+edit_596,image_edit_magic_data/image_596.png,change the background to an urban cityscape,background,image_edit_meta
+edit_597,image_edit_magic_data/image_597.png,replace the background with cityscape,background,image_edit_meta
+edit_598,image_edit_magic_data/image_598.png,transform the background into a modern art gallery,background,image_edit_meta
+edit_599,image_edit_magic_data/image_599.png,modify the background to a luxurious wedding venue,background,image_edit_meta
+edit_600,image_edit_magic_data/image_600.png,"alter the background to a dark, mystical forest",background,image_edit_meta
+edit_601,image_edit_magic_data/image_601.png,replace the background with a vibrant colorful background,background,image_edit_meta
+edit_602,image_edit_magic_data/image_602.png,replace the background with a Valentine's Day theme.,background,image_edit_meta
+edit_603,image_edit_magic_data/image_603.png,modify the background to gym,background,image_edit_meta
+edit_604,image_edit_magic_data/image_604.png,move the background to cityscape,background,image_edit_meta
+edit_605,image_edit_magic_data/image_605.png,change the background to a bright and colorful street art,background,image_edit_meta
+edit_606,image_edit_magic_data/image_606.png,replace the background with futuristic cityscape,background,image_edit_meta
+edit_607,image_edit_magic_data/image_607.png,replace the background with a cityscape at sunset,background,image_edit_meta
+edit_608,image_edit_magic_data/image_608.png,change the background to an urban cityscape,background,image_edit_meta
+edit_609,image_edit_magic_data/image_609.png,make the background a nursery rhyme scene,background,image_edit_meta
+edit_610,image_edit_magic_data/image_610.png,change the background to a modern office,background,image_edit_meta
+edit_611,image_edit_magic_data/image_611.png,modify the background to a cityscape at sunset,background,image_edit_meta
+edit_612,image_edit_magic_data/image_612.png,make the background a cozy bedroom,background,image_edit_meta
+edit_613,image_edit_magic_data/image_613.png,make the background fantasy themed,background,image_edit_meta
+edit_614,image_edit_magic_data/image_614.png,transform background to futuristic cityscape,background,image_edit_meta
+edit_615,image_edit_magic_data/image_615.png,transition the background to a cozy restaurant,background,image_edit_meta
+edit_616,image_edit_magic_data/image_616.png,change the background to cityscape,background,image_edit_meta
+edit_617,image_edit_magic_data/image_617.png,replace the background with a cozy mountain lodge,background,image_edit_meta
+edit_618,image_edit_magic_data/image_618.png,replace the background with a stage,background,image_edit_meta
+edit_619,image_edit_magic_data/image_619.png,modify the background to a colorful and playful environment,background,image_edit_meta
+edit_620,image_edit_magic_data/image_620.png,replace the background with a romantic sunset,background,image_edit_meta
+edit_621,image_edit_magic_data/image_621.png,replace the background with a spaceship,background,image_edit_meta
+edit_622,image_edit_magic_data/image_622.png,change the background to futuristic cityscape,background,image_edit_meta
+edit_623,image_edit_magic_data/image_623.png,replace the background with snowy mountain.,background,image_edit_meta
+edit_624,image_edit_magic_data/image_624.png,make the background an eerie forest,background,image_edit_meta
+edit_625,image_edit_magic_data/image_625.png,transport the background to beachside,background,image_edit_meta
+edit_626,image_edit_magic_data/image_626.png,change background to luxury cruise ship,background,image_edit_meta
+edit_627,image_edit_magic_data/image_627.png,shift the background to a luxury boutique hotel,background,image_edit_meta
+edit_628,image_edit_magic_data/image_628.png,change the background to luxury hotel lobby,background,image_edit_meta
+edit_629,image_edit_magic_data/image_629.png,change the background to a cozy living room,background,image_edit_meta
+edit_630,image_edit_magic_data/image_630.png,replace the background with space,background,image_edit_meta
+edit_631,image_edit_magic_data/image_631.png,shift the background to a colorful festival,background,image_edit_meta
+edit_632,image_edit_magic_data/image_632.png,swap the background with a luxury mansion,background,image_edit_meta
+edit_633,image_edit_magic_data/image_633.png,alter the background to a peaceful Japanese garden,background,image_edit_meta
+edit_634,image_edit_magic_data/image_634.png,change the background to a beach at sunset,background,image_edit_meta
+edit_635,image_edit_magic_data/image_635.png,adorn the background with a beautiful garden,background,image_edit_meta
+edit_636,image_edit_magic_data/image_636.png,add a starry night sky background,background,image_edit_meta
+edit_637,image_edit_magic_data/image_637.png,swap the background with a modern cityscape,background,image_edit_meta
+edit_638,image_edit_magic_data/image_638.png,remove the chicken and vegetables,remove,image_edit_meta
+edit_639,image_edit_magic_data/image_639.png,get rid of the sword,remove,image_edit_meta
+edit_640,image_edit_magic_data/image_640.png,remove the chicken,remove,image_edit_meta
+edit_641,image_edit_magic_data/image_641.png,remove the statue of a monk,remove,image_edit_meta
+edit_642,image_edit_magic_data/image_642.png,get rid of the sword,remove,image_edit_meta
+edit_643,image_edit_magic_data/image_643.png,remove the boy,remove,image_edit_meta
+edit_644,image_edit_magic_data/image_644.png,get rid of the bag,remove,image_edit_meta
+edit_645,image_edit_magic_data/image_645.png,remove the sunset,remove,image_edit_meta
+edit_646,image_edit_magic_data/image_646.png,remove the turban,remove,image_edit_meta
+edit_647,image_edit_magic_data/image_647.png,remove the snake and the tattoo,remove,image_edit_meta
+edit_648,image_edit_magic_data/image_648.png,get rid of the tattoo,remove,image_edit_meta
+edit_649,image_edit_magic_data/image_649.png,get rid of the young man,remove,image_edit_meta
+edit_650,image_edit_magic_data/image_650.png,remove the make-up,remove,image_edit_meta
+edit_651,image_edit_magic_data/image_651.png,remove the father,remove,image_edit_meta
+edit_652,image_edit_magic_data/image_652.png,remove the bicycle,remove,image_edit_meta
+edit_653,image_edit_magic_data/image_653.png,get rid of the dragon image and the wooden table,remove,image_edit_meta
+edit_654,image_edit_magic_data/image_654.png,remove the stand,remove,image_edit_meta
+edit_655,image_edit_magic_data/image_655.png,remove the street,remove,image_edit_meta
+edit_656,image_edit_magic_data/image_656.png,remove the cup of tea,remove,image_edit_meta
+edit_657,image_edit_magic_data/image_657.png,remove the blocks,remove,image_edit_meta
+edit_658,image_edit_magic_data/image_658.png,erase the cafe,remove,image_edit_meta
+edit_659,image_edit_magic_data/image_659.png,remove the medical mask and the stack of books,remove,image_edit_meta
+edit_660,image_edit_magic_data/image_660.png,get rid of the mobile phone,remove,image_edit_meta
+edit_661,image_edit_magic_data/image_661.png,remove the hourglass,remove,image_edit_meta
+edit_662,image_edit_magic_data/image_662.png,remove the car,remove,image_edit_meta
+edit_663,image_edit_magic_data/image_663.png,remove the rock,remove,image_edit_meta
+edit_664,image_edit_magic_data/image_664.png,remove the grandmother,remove,image_edit_meta
+edit_665,image_edit_magic_data/image_665.png,remove the earrings,remove,image_edit_meta
+edit_666,image_edit_magic_data/image_666.png,get rid of the flowers,remove,image_edit_meta
+edit_667,image_edit_magic_data/image_667.png,remove autumn,remove,image_edit_meta
+edit_668,image_edit_magic_data/image_668.png,get rid of the glasses and the beard,remove,image_edit_meta
+edit_669,image_edit_magic_data/image_669.png,remove the japanese garden,remove,image_edit_meta
+edit_670,image_edit_magic_data/image_670.png,delete the leopard shark,remove,image_edit_meta
+edit_671,image_edit_magic_data/image_671.png,remove the candy cane,remove,image_edit_meta
+edit_672,image_edit_magic_data/image_672.png,get rid of the gold glasses,remove,image_edit_meta
+edit_673,image_edit_magic_data/image_673.png,without the cup,remove,image_edit_meta
+edit_674,image_edit_magic_data/image_674.png,remove the swimming pool,remove,image_edit_meta
+edit_675,image_edit_magic_data/image_675.png,remove the beard and cap,remove,image_edit_meta
+edit_676,image_edit_magic_data/image_676.png,delete the mural,remove,image_edit_meta
+edit_677,image_edit_magic_data/image_677.png,take out the gnomes,remove,image_edit_meta
+edit_678,image_edit_magic_data/image_678.png,erase the picture of the palm tree,remove,image_edit_meta
+edit_679,image_edit_magic_data/image_679.png,remove the bouquet of dried flowers,remove,image_edit_meta
+edit_680,image_edit_magic_data/image_680.png,remove the rain,remove,image_edit_meta
+edit_681,image_edit_magic_data/image_681.png,remove the confetti,remove,image_edit_meta
+edit_682,image_edit_magic_data/image_682.png,remove the ANZAC Bridge,remove,image_edit_meta
+edit_683,image_edit_magic_data/image_683.png,take out the glitter,remove,image_edit_meta
+edit_684,image_edit_magic_data/image_684.png,remove the cabbage,remove,image_edit_meta
+edit_685,image_edit_magic_data/image_685.png,remove the golden jewelry set,remove,image_edit_meta
+edit_686,image_edit_magic_data/image_686.png,remove the clouds,remove,image_edit_meta
+edit_687,image_edit_magic_data/image_687.png,remove one of the bikers,remove,image_edit_meta
+edit_688,image_edit_magic_data/image_688.png,without the sea,remove,image_edit_meta
+edit_689,image_edit_magic_data/image_689.png,remove the bicycle,remove,image_edit_meta
+edit_690,image_edit_magic_data/image_690.png,remove the girl,remove,image_edit_meta
+edit_691,image_edit_magic_data/image_691.png,without the accessories,remove,image_edit_meta
+edit_692,image_edit_magic_data/image_692.png,remove the long hair,remove,image_edit_meta
+edit_693,image_edit_magic_data/image_693.png,get rid of the horse,remove,image_edit_meta
+edit_694,image_edit_magic_data/image_694.png,delete the plants in vase and the books,remove,image_edit_meta
+edit_695,image_edit_magic_data/image_695.png,remove the dragon statue and the winter,remove,image_edit_meta
+edit_696,image_edit_magic_data/image_696.png,remove the piercings and blue hair,remove,image_edit_meta
+edit_697,image_edit_magic_data/image_697.png,get rid of the guitar,remove,image_edit_meta
+edit_698,image_edit_magic_data/image_698.png,remove the red caviar,remove,image_edit_meta
+edit_699,image_edit_magic_data/image_699.png,get rid of the barn,remove,image_edit_meta
+edit_700,image_edit_magic_data/image_700.png,switch the background to a modern cityscape,background,image_edit_meta
+edit_701,image_edit_magic_data/image_701.png,cut the purple iris flowers,remove,image_edit_meta
+edit_702,image_edit_magic_data/image_702.png,remove the hamburger,remove,image_edit_meta
+edit_703,image_edit_magic_data/image_703.png,get rid of the fish,remove,image_edit_meta
+edit_704,image_edit_magic_data/image_704.png,get rid of the cricket bat,remove,image_edit_meta
+edit_705,image_edit_magic_data/image_705.png,remove the glasses and the red lipstick,remove,image_edit_meta
+edit_706,image_edit_magic_data/image_706.png,remove one of the dogs,remove,image_edit_meta
+edit_707,image_edit_magic_data/image_707.png,get rid of the braids,remove,image_edit_meta
+edit_708,image_edit_magic_data/image_708.png,get rid of the bouquet,remove,image_edit_meta
+edit_709,image_edit_magic_data/image_709.png,remove the jewellery and traditional makeup,remove,image_edit_meta
+edit_710,image_edit_magic_data/image_710.png,remove the coffee mug,remove,image_edit_meta
+edit_711,image_edit_magic_data/image_711.png,swap the background to a luxury yacht,background,image_edit_meta
+edit_712,image_edit_magic_data/image_712.png,make the background a luxury pet spa,background,image_edit_meta
+edit_713,image_edit_magic_data/image_713.png,change the background to a beach,background,image_edit_meta
+edit_714,image_edit_magic_data/image_714.png,change background to futuristic cityscape,background,image_edit_meta
+edit_715,image_edit_magic_data/image_715.png,Replace the background with a cityscape at sunset,background,image_edit_meta
+edit_716,image_edit_magic_data/image_716.png,create a studio background,background,image_edit_meta
+edit_717,image_edit_magic_data/image_717.png,set the background to sunset,background,image_edit_meta
+edit_718,image_edit_magic_data/image_718.png,change the background to beach,background,image_edit_meta
+edit_719,image_edit_magic_data/image_719.png,change the background to Taj Mahal,background,image_edit_meta
+edit_720,image_edit_magic_data/image_720.png,transform the background into a modern office space,background,image_edit_meta
+edit_721,image_edit_magic_data/image_721.png,change the background to a modern cityscape,background,image_edit_meta
+edit_722,image_edit_magic_data/image_722.png,replace the background with a luxury mansion,background,image_edit_meta
+edit_723,image_edit_magic_data/image_723.png,change the background to cityscape,background,image_edit_meta
+edit_724,image_edit_magic_data/image_724.png,convert the background into a magical forest,background,image_edit_meta
+edit_725,image_edit_magic_data/image_725.png,alter the background to tropical island,background,image_edit_meta
+edit_726,image_edit_magic_data/image_726.png,make the background souk,background,image_edit_meta
+edit_727,image_edit_magic_data/image_727.png,make the background galaxy,background,image_edit_meta
+edit_728,image_edit_magic_data/image_728.png,alter the background to a luxurious villa,background,image_edit_meta
+edit_729,image_edit_magic_data/image_729.png,use a starry night sky as the background,background,image_edit_meta
+edit_730,image_edit_magic_data/image_730.png,change the background to amusement park,background,image_edit_meta
+edit_731,image_edit_magic_data/image_731.png,set the background to Taj Mahal,background,image_edit_meta
+edit_732,image_edit_magic_data/image_732.png,change the background to a bustling city street,background,image_edit_meta
+edit_733,image_edit_magic_data/image_733.png,change background to mountain,background,image_edit_meta
+edit_734,image_edit_magic_data/image_734.png,add a cityscape background,background,image_edit_meta
+edit_735,image_edit_magic_data/image_735.png,shift the background to a trendy boutique hotel lobby,background,image_edit_meta
+edit_736,image_edit_magic_data/image_736.png,make the background a cityscape at sunset,background,image_edit_meta
+edit_737,image_edit_magic_data/image_737.png,replace the background with a luxury car showroom,background,image_edit_meta
+edit_738,image_edit_magic_data/image_738.png,use a beach as the background,background,image_edit_meta
+edit_739,image_edit_magic_data/image_739.png,transform the background into a peaceful meadow,background,image_edit_meta
+edit_740,image_edit_magic_data/image_740.png,update the background to a winter wonderland,background,image_edit_meta
+edit_741,image_edit_magic_data/image_741.png,alter the background to cityscape,background,image_edit_meta
+edit_742,image_edit_magic_data/image_742.png,modify the background to beach at sunset,background,image_edit_meta
+edit_743,image_edit_magic_data/image_743.png,swap the background to library,background,image_edit_meta
+edit_744,image_edit_magic_data/image_744.png,replace the background with a city skyline,background,image_edit_meta
+edit_745,image_edit_magic_data/image_745.png,replace the background with a dog park,background,image_edit_meta
+edit_746,image_edit_magic_data/image_746.png,make the background a beach,background,image_edit_meta
+edit_747,image_edit_magic_data/image_747.png,set the background to beach,background,image_edit_meta
+edit_748,image_edit_magic_data/image_748.png,turn rice field into beach,local,image_edit_meta
+edit_749,image_edit_magic_data/image_749.png,make the daughters into sons,local,image_edit_meta
+edit_750,image_edit_magic_data/image_750.png,transform tree into cactus,local,image_edit_meta
+edit_751,image_edit_magic_data/image_751.png,have the pen be made of candy.,local,image_edit_meta
+edit_752,image_edit_magic_data/image_752.png,make him have short hair,local,image_edit_meta
+edit_753,image_edit_magic_data/image_753.png,turn puppy into kitten,local,image_edit_meta
+edit_754,image_edit_magic_data/image_754.png,make them look like they're from the 1920s,local,image_edit_meta
+edit_755,image_edit_magic_data/image_755.png,replace vineyards with wheat fields,local,image_edit_meta
+edit_756,image_edit_magic_data/image_756.png,replace the bar with a beach,local,image_edit_meta
+edit_757,image_edit_magic_data/image_757.png,replace grapes with broccoli,local,image_edit_meta
+edit_758,image_edit_magic_data/image_758.png,make her hair black,local,image_edit_meta
+edit_759,image_edit_magic_data/image_759.png,have him to wear a suit instead of hat and tattoo,local,image_edit_meta
+edit_760,image_edit_magic_data/image_760.png,make the cup into a mug.,local,image_edit_meta
+edit_761,image_edit_magic_data/image_761.png,switch dog with cat,local,image_edit_meta
+edit_762,image_edit_magic_data/image_762.png,turn soldiers into animals,local,image_edit_meta
+edit_763,image_edit_magic_data/image_763.png,change men to women.,local,image_edit_meta
+edit_764,image_edit_magic_data/image_764.png,switch corset to jacket,local,image_edit_meta
+edit_765,image_edit_magic_data/image_765.png,replace canoes with spaceships,local,image_edit_meta
+edit_766,image_edit_magic_data/image_766.png,give him a mohawk.,local,image_edit_meta
+edit_767,image_edit_magic_data/image_767.png,convert boy to girl,local,image_edit_meta
+edit_768,image_edit_magic_data/image_768.png,change city to beach,local,image_edit_meta
+edit_769,image_edit_magic_data/image_769.png,replace girl with boy,local,image_edit_meta
+edit_770,image_edit_magic_data/image_770.png,change glasses to sunglasses,local,image_edit_meta
+edit_771,image_edit_magic_data/image_771.png,make the pancakes look like pizza,local,image_edit_meta
+edit_772,image_edit_magic_data/image_772.png,change the saree to a modern dress,local,image_edit_meta
+edit_773,image_edit_magic_data/image_773.png,replace boy with a seal,local,image_edit_meta
+edit_774,image_edit_magic_data/image_774.png,switch wooden plate to a white plate,local,image_edit_meta
+edit_775,image_edit_magic_data/image_775.png,replace lamb with beef,inpaint,image_edit_meta
+edit_776,image_edit_magic_data/image_776.png,colorize the photo,inpaint,image_edit_meta
+edit_777,image_edit_magic_data/image_777.png,replace the girl's clothes with a traditional greek dress,inpaint,image_edit_meta
+edit_778,image_edit_magic_data/image_778.png,colorize the uniform,inpaint,image_edit_meta
+edit_779,image_edit_magic_data/image_779.png,paint the cookies rainbow,inpaint,image_edit_meta
+edit_780,image_edit_magic_data/image_780.png,paint the tree blue,inpaint,image_edit_meta
+edit_781,image_edit_magic_data/image_781.png,remove the beard,remove,image_edit_meta
+edit_782,image_edit_magic_data/image_782.png,make her eyes green,inpaint,image_edit_meta
+edit_783,image_edit_magic_data/image_783.png,make the raincoat bright yellow,inpaint,image_edit_meta
+edit_784,image_edit_magic_data/image_784.png,make the braids blonde,inpaint,image_edit_meta
+edit_785,image_edit_magic_data/image_785.png,make the pocket watch silver,inpaint,image_edit_meta
+edit_786,image_edit_magic_data/image_786.png,change the coat to a dress,inpaint,image_edit_meta
+edit_787,image_edit_magic_data/image_787.png,cover the girls with a coat of glitter,inpaint,image_edit_meta
+edit_788,image_edit_magic_data/image_788.png,cover the house with vines,inpaint,image_edit_meta
+edit_789,image_edit_magic_data/image_789.png,make their t-shirts green,inpaint,image_edit_meta
+edit_790,image_edit_magic_data/image_790.png,make the buttons gold,inpaint,image_edit_meta
+edit_791,image_edit_magic_data/image_791.png,change the car to a modern one,inpaint,image_edit_meta
+edit_792,image_edit_magic_data/image_792.png,paint the hair blue,inpaint,image_edit_meta
+edit_793,image_edit_magic_data/image_793.png,paint the women's outfits bright colors,inpaint,image_edit_meta
+edit_794,image_edit_magic_data/image_794.png,make the man smile,inpaint,image_edit_meta
+edit_795,image_edit_magic_data/image_795.png,make the tracksuit blue,inpaint,image_edit_meta
+edit_796,image_edit_magic_data/image_796.png,replace the girl's hair with a rainbow,inpaint,image_edit_meta
+edit_797,image_edit_magic_data/image_797.png,make his horns bigger,inpaint,image_edit_meta
+edit_798,image_edit_magic_data/image_798.png,replace the mop with a rainbow,inpaint,image_edit_meta
+edit_799,image_edit_magic_data/image_799.png,cover the monk's robe with a colorful pattern,inpaint,image_edit_meta
+edit_800,image_edit_magic_data/image_800.png,make the fur coat into a cape,inpaint,image_edit_meta
+edit_801,image_edit_magic_data/image_801.png,cover the Christmas tree with glitter,inpaint,image_edit_meta
+edit_802,image_edit_magic_data/image_802.png,replace the cat with a dog,inpaint,image_edit_meta
+edit_803,image_edit_magic_data/image_803.png,make the gorilla and lion disappear,inpaint,image_edit_meta
+edit_804,image_edit_magic_data/image_804.png,color the leaves blue,inpaint,image_edit_meta
+edit_805,image_edit_magic_data/image_805.png,make her blouse red,inpaint,image_edit_meta
+edit_806,image_edit_magic_data/image_806.png,get rid of the dogs,remove,image_edit_meta
+edit_807,image_edit_magic_data/image_807.png,get rid of the smoke and bokeh,remove,image_edit_meta
+edit_808,image_edit_magic_data/image_808.png,replace the headphones with a pair of wings,inpaint,image_edit_meta
+edit_809,image_edit_magic_data/image_809.png,make her lips bright red.,inpaint,image_edit_meta
+edit_810,image_edit_magic_data/image_810.png,make the balloons silver,inpaint,image_edit_meta
+edit_811,image_edit_magic_data/image_811.png,make the backpack red,inpaint,image_edit_meta
+edit_812,image_edit_magic_data/image_812.png,cover the wheelchair with flowers,inpaint,image_edit_meta
+edit_813,image_edit_magic_data/image_813.png,change the dresses to black and white,inpaint,image_edit_meta
+edit_814,image_edit_magic_data/image_814.png,fill the room with water,inpaint,image_edit_meta
+edit_815,image_edit_magic_data/image_815.png,color the girl's hair and eyes with similar shades of blue,inpaint,image_edit_meta
+edit_816,image_edit_magic_data/image_816.png,make the sofa green,inpaint,image_edit_meta
+edit_817,image_edit_magic_data/image_817.png,paint her short hair blue,inpaint,image_edit_meta
+edit_818,image_edit_magic_data/image_818.png,put a red coat on the girl,inpaint,image_edit_meta
+edit_819,image_edit_magic_data/image_819.png,paint the girl's shirt blue,inpaint,image_edit_meta
+edit_820,image_edit_magic_data/image_820.png,change the color of the wig to blue,inpaint,image_edit_meta
+edit_821,image_edit_magic_data/image_821.png,make her dress green,inpaint,image_edit_meta
+edit_822,image_edit_magic_data/image_822.png,cover the church with gold,inpaint,image_edit_meta
+edit_823,image_edit_magic_data/image_823.png,color the fruit juice bright pink,inpaint,image_edit_meta
+edit_824,image_edit_magic_data/image_824.png,make the bottle and booties blue,inpaint,image_edit_meta
+edit_825,image_edit_magic_data/image_825.png,make the leaf green,inpaint,image_edit_meta
+edit_826,image_edit_magic_data/image_826.png,make the doll's suit red,inpaint,image_edit_meta
+edit_827,image_edit_magic_data/image_827.png,place a vase on the table,inpaint,image_edit_meta
+edit_828,image_edit_magic_data/image_828.png,coat the girl's lips with glitter,inpaint,image_edit_meta
+edit_829,image_edit_magic_data/image_829.png,dye the hair purple,inpaint,image_edit_meta
+edit_830,image_edit_magic_data/image_830.png,make the credit card gold,inpaint,image_edit_meta
+edit_831,image_edit_magic_data/image_831.png,make the horse's fur pink,inpaint,image_edit_meta
+edit_832,image_edit_magic_data/image_832.png,replace the night club with a beach,inpaint,image_edit_meta
+edit_833,image_edit_magic_data/image_833.png,fill the pool with juice,inpaint,image_edit_meta
+edit_834,image_edit_magic_data/image_834.png,cover the picture with glitter,inpaint,image_edit_meta
+edit_835,image_edit_magic_data/image_835.png,paint the woman's jacket and scarf green,inpaint,image_edit_meta
+edit_836,image_edit_magic_data/image_836.png,make the flower green,inpaint,image_edit_meta
+edit_837,image_edit_magic_data/image_837.png,paint the dress blue,inpaint,image_edit_meta
+edit_838,image_edit_magic_data/image_838.png,make her hair straight,inpaint,image_edit_meta
+edit_839,image_edit_magic_data/image_839.png,dye the flag blue,inpaint,image_edit_meta
+edit_840,image_edit_magic_data/image_840.png,remove the red lips and freckles,remove,image_edit_meta
+edit_841,image_edit_magic_data/image_841.png,remove the veil,remove,image_edit_meta
+edit_842,image_edit_magic_data/image_842.png,remove the dog,remove,image_edit_meta
+edit_843,image_edit_magic_data/image_843.png,get rid of the car,remove,image_edit_meta
+edit_844,image_edit_magic_data/image_844.png,make the dog a cat,inpaint,image_edit_meta
+edit_845,image_edit_magic_data/image_845.png,replace the girl with a boy,inpaint,image_edit_meta
+edit_846,image_edit_magic_data/image_846.png,cover the unicorns with glitter,inpaint,image_edit_meta
+edit_847,image_edit_magic_data/image_847.png,coat the girl in a yellow jacket,inpaint,image_edit_meta
+edit_848,image_edit_magic_data/image_848.png,put a golden crown on the woman's head,inpaint,image_edit_meta
+edit_849,image_edit_magic_data/image_849.png,make her clothes orange,inpaint,image_edit_meta
+edit_850,image_edit_magic_data/image_850.png,replace the cathedral with a giant pineapple,inpaint,image_edit_meta
+edit_851,image_edit_magic_data/image_851.png,make the suit sparkly,inpaint,image_edit_meta
+edit_852,image_edit_magic_data/image_852.png,make the car pink,inpaint,image_edit_meta
+edit_853,image_edit_magic_data/image_853.png,change her shirt to green,inpaint,image_edit_meta
+edit_854,image_edit_magic_data/image_854.png,color the mirror frame gold,inpaint,image_edit_meta
+edit_855,image_edit_magic_data/image_855.png,change the sari to a modern dress,inpaint,image_edit_meta
+edit_856,image_edit_magic_data/image_856.png,paint the woman's shirt purple,inpaint,image_edit_meta
+edit_857,image_edit_magic_data/image_857.png,color the blanket orange,inpaint,image_edit_meta
+edit_858,image_edit_magic_data/image_858.png,colorize the woman's face with a golden tone,inpaint,image_edit_meta
+edit_859,image_edit_magic_data/image_859.png,dye her hair a vibrant purple,inpaint,image_edit_meta
+edit_860,image_edit_magic_data/image_860.png,cover the girl with a veil,inpaint,image_edit_meta
+edit_861,image_edit_magic_data/image_861.png,fill the glasses with candy canes,inpaint,image_edit_meta
+edit_862,image_edit_magic_data/image_862.png,make the woman's hair blonde,inpaint,image_edit_meta
+edit_863,image_edit_magic_data/image_863.png,fill the couple's clothes with polka dots,inpaint,image_edit_meta
+edit_864,image_edit_magic_data/image_864.png,make him smile,inpaint,image_edit_meta
+edit_865,image_edit_magic_data/image_865.png,make the cake pink,inpaint,image_edit_meta
+edit_866,image_edit_magic_data/image_866.png,add a Santa hat to the man,inpaint,image_edit_meta
+edit_867,image_edit_magic_data/image_867.png,remove the bird,remove,image_edit_meta
+edit_868,image_edit_magic_data/image_868.png,get rid of the blue stripe,remove,image_edit_meta
+edit_869,image_edit_magic_data/image_869.png,get rid of the tattoos,remove,image_edit_meta
+edit_870,image_edit_magic_data/image_870.png,remove one of the women,remove,image_edit_meta
+edit_871,image_edit_magic_data/image_871.png,remove the statue,remove,image_edit_meta
+edit_872,image_edit_magic_data/image_872.png,remove the cat,remove,image_edit_meta
+edit_873,image_edit_magic_data/image_873.png,remove the water bottle,remove,image_edit_meta
+edit_874,image_edit_magic_data/image_874.png,remove the beard and the cap,remove,image_edit_meta
+edit_875,image_edit_magic_data/image_875.png,remove the cockatiel,remove,image_edit_meta
+edit_876,image_edit_magic_data/image_876.png,get rid of the flower,remove,image_edit_meta
+edit_877,image_edit_magic_data/image_877.png,without the village,remove,image_edit_meta
+edit_878,image_edit_magic_data/image_878.png,get rid of the painting,remove,image_edit_meta
+edit_879,image_edit_magic_data/image_879.png,remove the sunglasses and the glass of whiskey,remove,image_edit_meta
+edit_880,image_edit_magic_data/image_880.png,get rid of the robot,remove,image_edit_meta
+edit_881,image_edit_magic_data/image_881.png,remove the yellow sneakers,remove,image_edit_meta
+edit_882,image_edit_magic_data/image_882.png,remove the red coat,remove,image_edit_meta
+edit_883,image_edit_magic_data/image_883.png,eliminate the dragon,remove,image_edit_meta
+edit_884,image_edit_magic_data/image_884.png,remove the sunset,remove,image_edit_meta
+edit_885,image_edit_magic_data/image_885.png,get rid of the car,remove,image_edit_meta
+edit_886,image_edit_magic_data/image_886.png,remove the bow,remove,image_edit_meta
+edit_887,image_edit_magic_data/image_887.png,remove the dog,remove,image_edit_meta
+edit_888,image_edit_magic_data/image_888.png,erase the face masks,remove,image_edit_meta
+edit_889,image_edit_magic_data/image_889.png,remove the barn owl,remove,image_edit_meta
+edit_890,image_edit_magic_data/image_890.png,remove the bun and the picnic,remove,image_edit_meta
+edit_891,image_edit_magic_data/image_891.png,get rid of the young man,remove,image_edit_meta
+edit_892,image_edit_magic_data/image_892.png,remove the jacket,remove,image_edit_meta
+edit_893,image_edit_magic_data/image_893.png,without the glasses,remove,image_edit_meta
+edit_894,image_edit_magic_data/image_894.png,remove the Pomeranian,remove,image_edit_meta
+edit_895,image_edit_magic_data/image_895.png,remove the mango salsa,remove,image_edit_meta
+edit_896,image_edit_magic_data/image_896.png,remove the male,remove,image_edit_meta
+edit_897,image_edit_magic_data/image_897.png,remove the shoes,remove,image_edit_meta
+edit_898,image_edit_magic_data/image_898.png,get rid of the woman's long blond hair,remove,image_edit_meta
+edit_899,image_edit_magic_data/image_899.png,cover her with a blanket,inpaint,image_edit_meta
+edit_900,image_edit_magic_data/image_900.png,paint the pendant gold,inpaint,image_edit_meta
+edit_901,image_edit_magic_data/image_901.png,make her hair long,inpaint,image_edit_meta
+edit_902,image_edit_magic_data/image_902.png,change the horns to wings,inpaint,image_edit_meta
+edit_903,image_edit_magic_data/image_903.png,make the skirt purple,inpaint,image_edit_meta
+edit_904,image_edit_magic_data/image_904.png,replace the turban with a crown,inpaint,image_edit_meta
+edit_905,image_edit_magic_data/image_905.png,give the man a superhero cape.,inpaint,image_edit_meta
+edit_906,image_edit_magic_data/image_906.png,make her top bright pink,inpaint,image_edit_meta
+edit_907,image_edit_magic_data/image_907.png,add a big smile on each girl's face,inpaint,image_edit_meta
+edit_908,image_edit_magic_data/image_908.png,make the man's hair green,inpaint,image_edit_meta
+edit_909,image_edit_magic_data/image_909.png,dye the hair blonde,inpaint,image_edit_meta
+edit_910,image_edit_magic_data/image_910.png,make her hair long,inpaint,image_edit_meta
+edit_911,image_edit_magic_data/image_911.png,change the color of the shirt to green,inpaint,image_edit_meta
+edit_912,image_edit_magic_data/image_912.png,color the window blue,inpaint,image_edit_meta
+edit_913,image_edit_magic_data/image_913.png,make the dress green,inpaint,image_edit_meta
+edit_914,image_edit_magic_data/image_914.png,make the young man's shorts neon green,inpaint,image_edit_meta
+edit_915,image_edit_magic_data/image_915.png,replace diamonds with rubies,inpaint,image_edit_meta
+edit_916,image_edit_magic_data/image_916.png,paint her shirt green,inpaint,image_edit_meta
+edit_917,image_edit_magic_data/image_917.png,replace mango with strawberry,inpaint,image_edit_meta
+edit_918,image_edit_magic_data/image_918.png,paint the workers' vests neon green,inpaint,image_edit_meta
+edit_919,image_edit_magic_data/image_919.png,replace the bunny dolls with real bunnies,inpaint,image_edit_meta
+edit_920,image_edit_magic_data/image_920.png,make the waterfall green.,inpaint,image_edit_meta
+edit_921,image_edit_magic_data/image_921.png,paint the foundation blue,inpaint,image_edit_meta
+edit_922,image_edit_magic_data/image_922.png,paint the woman's hair blue,inpaint,image_edit_meta
+edit_923,image_edit_magic_data/image_923.png,replace the young woman with a potato,inpaint,image_edit_meta
+edit_924,image_edit_magic_data/image_924.png,replace the pickled plum with a slice of pizza,inpaint,image_edit_meta
+edit_925,image_edit_magic_data/image_925.png,make the dress pink,inpaint,image_edit_meta
+edit_926,image_edit_magic_data/image_926.png,dye the dog's fur blue,inpaint,image_edit_meta
+edit_927,image_edit_magic_data/image_927.png,fill the man's hoodie and hat with blue,inpaint,image_edit_meta
+edit_928,image_edit_magic_data/image_928.png,cover the woman with a colorful scarf,inpaint,image_edit_meta
+edit_929,image_edit_magic_data/image_929.png,sprinkle the teddy bear with glitter,inpaint,image_edit_meta
+edit_930,image_edit_magic_data/image_930.png,paint the cabriolet pink,inpaint,image_edit_meta
+edit_931,image_edit_magic_data/image_931.png,make the fairy's wings sparkly,inpaint,image_edit_meta
+edit_932,image_edit_magic_data/image_932.png,make the soccer ball blue,inpaint,image_edit_meta
+edit_933,image_edit_magic_data/image_933.png,fill the plants with colorful flowers,inpaint,image_edit_meta
+edit_934,image_edit_magic_data/image_934.png,color the book red,inpaint,image_edit_meta
+edit_935,image_edit_magic_data/image_935.png,replace the backpack with a fishing rod,inpaint,image_edit_meta
+edit_936,image_edit_magic_data/image_936.png,put a coat on the girl,inpaint,image_edit_meta
+edit_937,image_edit_magic_data/image_937.png,cover the french bulldog with confetti,inpaint,image_edit_meta
+edit_938,image_edit_magic_data/image_938.png,make the stroller golden,inpaint,image_edit_meta
+edit_939,image_edit_magic_data/image_939.png,fill his shirt with rainbow colors,inpaint,image_edit_meta
+edit_940,image_edit_magic_data/image_940.png,make the man's jacket red,inpaint,image_edit_meta
+edit_941,image_edit_magic_data/image_941.png,replace the door with a modern one,inpaint,image_edit_meta
+edit_942,image_edit_magic_data/image_942.png,make her outfit pink,inpaint,image_edit_meta
+edit_943,image_edit_magic_data/image_943.png,replace the lettuce with kale,inpaint,image_edit_meta
+edit_944,image_edit_magic_data/image_944.png,colorize the portrait,inpaint,image_edit_meta
+edit_945,image_edit_magic_data/image_945.png,paint the wine green,inpaint,image_edit_meta
+edit_946,image_edit_magic_data/image_946.png,dye the dreadlocks blonde,inpaint,image_edit_meta
+edit_947,image_edit_magic_data/image_947.png,paint the woman's dress purple,inpaint,image_edit_meta
+edit_948,image_edit_magic_data/image_948.png,adorn the woman with gold jewelry,inpaint,image_edit_meta
+edit_949,image_edit_magic_data/image_949.png,make the forest pink,inpaint,image_edit_meta
+edit_950,image_edit_magic_data/image_950.png,make the dress blue,inpaint,image_edit_meta
+edit_951,image_edit_magic_data/image_951.png,make the girl's bodysuit red,inpaint,image_edit_meta
+edit_952,image_edit_magic_data/image_952.png,paint her dress green,inpaint,image_edit_meta
+edit_953,image_edit_magic_data/image_953.png,paint the swimsuit red,inpaint,image_edit_meta
+edit_954,image_edit_magic_data/image_954.png,change the table to a tree,inpaint,image_edit_meta
+edit_955,image_edit_magic_data/image_955.png,give the kid a mohawk,inpaint,image_edit_meta
+edit_956,image_edit_magic_data/image_956.png,change the skirt to a rainbow color,inpaint,image_edit_meta
+edit_957,image_edit_magic_data/image_957.png,dye the bench green,inpaint,image_edit_meta
+edit_958,image_edit_magic_data/image_958.png,colorize the photo,inpaint,image_edit_meta
+edit_959,image_edit_magic_data/image_959.png,make the mother and son's skin blue,inpaint,image_edit_meta
+edit_960,image_edit_magic_data/image_960.png,make the jacket sparkly,inpaint,image_edit_meta
+edit_961,image_edit_magic_data/image_961.png,paint their coats golden.,inpaint,image_edit_meta
+edit_962,image_edit_magic_data/image_962.png,change the dress to yellow,inpaint,image_edit_meta
+edit_963,image_edit_magic_data/image_963.png,make her dress pink,inpaint,image_edit_meta
+edit_964,image_edit_magic_data/image_964.png,replace nightwear with pajamas,inpaint,image_edit_meta
+edit_965,image_edit_magic_data/image_965.png,make her hair curly,inpaint,image_edit_meta
+edit_966,image_edit_magic_data/image_966.png,fill their t-shirts with rainbow colors,inpaint,image_edit_meta
+edit_967,image_edit_magic_data/image_967.png,replace the book with a laptop,inpaint,image_edit_meta
+edit_968,image_edit_magic_data/image_968.png,cover the girl's hair with flowers,inpaint,image_edit_meta
+edit_969,image_edit_magic_data/image_969.png,change the girl's hair to red,inpaint,image_edit_meta
+edit_970,image_edit_magic_data/image_970.png,make the mask a superhero mask,inpaint,image_edit_meta
+edit_971,image_edit_magic_data/image_971.png,make her coat blue,inpaint,image_edit_meta
+edit_972,image_edit_magic_data/image_972.png,dye the costume pink,inpaint,image_edit_meta
+edit_973,image_edit_magic_data/image_973.png,color the guitar red,inpaint,image_edit_meta
+edit_974,image_edit_magic_data/image_974.png,replace the ball with a globe,inpaint,image_edit_meta
+edit_975,image_edit_magic_data/image_975.png,replace the brown pants with black pants,inpaint,image_edit_meta
+edit_976,image_edit_magic_data/image_976.png,replace bacon with sausage,inpaint,image_edit_meta
+edit_977,image_edit_magic_data/image_977.png,cover the vase with rainbow stripes,inpaint,image_edit_meta
+edit_978,image_edit_magic_data/image_978.png,make the dress pink,inpaint,image_edit_meta
+edit_979,image_edit_magic_data/image_979.png,paint the cupcakes green,inpaint,image_edit_meta
+edit_980,image_edit_magic_data/image_980.png,make the coat golden.,inpaint,image_edit_meta
+edit_981,image_edit_magic_data/image_981.png,paint the trekker's jacket blue,inpaint,image_edit_meta
+edit_982,image_edit_magic_data/image_982.png,dye the hair pink,inpaint,image_edit_meta
+edit_983,image_edit_magic_data/image_983.png,make them smile,inpaint,image_edit_meta
+edit_984,image_edit_magic_data/image_984.png,make the mother's dress blue,inpaint,image_edit_meta
+edit_985,image_edit_magic_data/image_985.png,make the foliage pink,inpaint,image_edit_meta
+edit_986,image_edit_magic_data/image_986.png,dye the dress pink,inpaint,image_edit_meta
+edit_987,image_edit_magic_data/image_987.png,fill the monkey's fur with purple,inpaint,image_edit_meta
+edit_988,image_edit_magic_data/image_988.png,paint the plate blue,inpaint,image_edit_meta
+edit_989,image_edit_magic_data/image_989.png,fill the trophy with glitter,inpaint,image_edit_meta
+edit_990,image_edit_magic_data/image_990.png,replace the girl's dress with a modern outfit,inpaint,image_edit_meta
+edit_991,image_edit_magic_data/image_991.png,paint the vegetables in a rainbow of colors,inpaint,image_edit_meta
+edit_992,image_edit_magic_data/image_992.png,paint the robots pink,inpaint,image_edit_meta
+edit_993,image_edit_magic_data/image_993.png,make his shirt pink,inpaint,image_edit_meta
+edit_994,image_edit_magic_data/image_994.png,change the girl's dress to black,inpaint,image_edit_meta
+edit_995,image_edit_magic_data/image_995.png,dye the girl's jacket red,inpaint,image_edit_meta
+edit_996,image_edit_magic_data/image_996.png,replace the flowers with butterflies,inpaint,image_edit_meta
+edit_997,image_edit_magic_data/image_997.png,replace the sword with a paintbrush,inpaint,image_edit_meta
+edit_998,image_edit_magic_data/image_998.png,dye the dog's fur blue,inpaint,image_edit_meta
+edit_999,image_edit_magic_data/image_999.png,paint the girl's dress black,inpaint,image_edit_meta
+edit_1000,image_edit_magic_data/image_1000.png,make the train green,inpaint,image_edit_meta
+edit_1001,image_edit_magic_data/image_1001.png,make the bread a sandwich,inpaint,image_edit_meta
+edit_1002,image_edit_magic_data/image_1002.png,replace the woman's hair with a ponytail,inpaint,image_edit_meta
+edit_1003,image_edit_magic_data/image_1003.png,cover the tattoo with a band-aid,inpaint,image_edit_meta
+edit_1004,image_edit_magic_data/image_1004.png,change the girl's sword to a paintbrush,inpaint,image_edit_meta
+edit_1005,image_edit_magic_data/image_1005.png,change the color of the festival decorations to purple,inpaint,image_edit_meta
+edit_1006,image_edit_magic_data/image_1006.png,change the suit color to navy blue,inpaint,image_edit_meta
+edit_1007,image_edit_magic_data/image_1007.png,make the girl's hair curly,inpaint,image_edit_meta
+edit_1008,image_edit_magic_data/image_1008.png,dye his hair blonde,inpaint,image_edit_meta
+edit_1009,image_edit_magic_data/image_1009.png,dye the hair blue,inpaint,image_edit_meta
+edit_1010,image_edit_magic_data/image_1010.png,make her dress blue,inpaint,image_edit_meta
+edit_1011,image_edit_magic_data/image_1011.png,make her hair curly,inpaint,image_edit_meta
+edit_1012,image_edit_magic_data/image_1012.png,fill her jacket with flowers.,inpaint,image_edit_meta
+edit_1013,image_edit_magic_data/image_1013.png,paint the man's clothes orange,inpaint,image_edit_meta
+edit_1014,image_edit_magic_data/image_1014.png,make the dress sparkly,inpaint,image_edit_meta
+edit_1015,image_edit_magic_data/image_1015.png,make the toy car pink,inpaint,image_edit_meta
+edit_1016,image_edit_magic_data/image_1016.png,paint her hair blonde,inpaint,image_edit_meta
+edit_1017,image_edit_magic_data/image_1017.png,change their clothes to modern style,inpaint,image_edit_meta
+edit_1018,image_edit_magic_data/image_1018.png,change the dress to purple,inpaint,image_edit_meta
+edit_1019,image_edit_magic_data/image_1019.png,make her coat dark blue,inpaint,image_edit_meta
+edit_1020,image_edit_magic_data/image_1020.png,replace the fish with a giant pizza,inpaint,image_edit_meta
+edit_1021,image_edit_magic_data/image_1021.png,make the silos taller,inpaint,image_edit_meta
+edit_1022,image_edit_magic_data/image_1022.png,make the guitar neon green.,inpaint,image_edit_meta
+edit_1023,image_edit_magic_data/image_1023.png,make one of the women's hair blue,inpaint,image_edit_meta
+edit_1024,image_edit_magic_data/image_1024.png,paint the snow blue,inpaint,image_edit_meta
+edit_1025,image_edit_magic_data/image_1025.png,cover the cupid's wings with glitter,inpaint,image_edit_meta
+edit_1026,image_edit_magic_data/image_1026.png,paint the dress green,inpaint,image_edit_meta
+edit_1027,image_edit_magic_data/image_1027.png,replace the plate with a red plate,inpaint,image_edit_meta
+edit_1028,image_edit_magic_data/image_1028.png,paint the flower yellow,inpaint,image_edit_meta
+edit_1029,image_edit_magic_data/image_1029.png,make her smile bigger.,inpaint,image_edit_meta
+edit_1030,image_edit_magic_data/image_1030.png,paint the houses and churches green,inpaint,image_edit_meta
+edit_1031,image_edit_magic_data/image_1031.png,make the earring sparkle,inpaint,image_edit_meta
+edit_1032,image_edit_magic_data/image_1032.png,make her dress black,inpaint,image_edit_meta
+edit_1033,image_edit_magic_data/image_1033.png,exchange their suits,inpaint,image_edit_meta
+edit_1034,image_edit_magic_data/image_1034.png,knit a scarf for her,inpaint,image_edit_meta
+edit_1035,image_edit_magic_data/image_1035.png,put a crown on the woman,inpaint,image_edit_meta
+edit_1036,image_edit_magic_data/image_1036.png,make the balloons purple,inpaint,image_edit_meta
+edit_1037,image_edit_magic_data/image_1037.png,tan the couple's skin,inpaint,image_edit_meta
+edit_1038,image_edit_magic_data/image_1038.png,make the dress gold,inpaint,image_edit_meta
+edit_1039,image_edit_magic_data/image_1039.png,paint the bag blue,inpaint,image_edit_meta
+edit_1040,image_edit_magic_data/image_1040.png,fill the room with books,inpaint,image_edit_meta
+edit_1041,image_edit_magic_data/image_1041.png,change the smartphone to a rose,inpaint,image_edit_meta
+edit_1042,image_edit_magic_data/image_1042.png,fill the girl's hat with flowers,inpaint,image_edit_meta
+edit_1043,image_edit_magic_data/image_1043.png,fill the hat with colorful patterns,inpaint,image_edit_meta
+edit_1044,image_edit_magic_data/image_1044.png,paint the man's shirt green,inpaint,image_edit_meta
+edit_1045,image_edit_magic_data/image_1045.png,fill the dress with colorful patterns,inpaint,image_edit_meta
+edit_1046,image_edit_magic_data/image_1046.png,give the warrior a top hat,inpaint,image_edit_meta
+edit_1047,image_edit_magic_data/image_1047.png,replace hijabs with tiaras,inpaint,image_edit_meta
+edit_1048,image_edit_magic_data/image_1048.png,make her dress sparkly,inpaint,image_edit_meta
+edit_1049,image_edit_magic_data/image_1049.png,paint the dress blue,inpaint,image_edit_meta
+edit_1050,image_edit_magic_data/image_1050.png,make the dog black,inpaint,image_edit_meta
+edit_1051,image_edit_magic_data/image_1051.png,have a pink sapphire instead of diamond,local,image_edit_meta
+edit_1052,image_edit_magic_data/image_1052.png,remove the glasses,remove,image_edit_meta
+edit_1053,image_edit_magic_data/image_1053.png,add a bow tie to the dog,add,image_edit_meta
+edit_1054,image_edit_magic_data/image_1054.png,remove the sunset,remove,image_edit_meta
+edit_1055,image_edit_magic_data/image_1055.png,remove the ivy,remove,image_edit_meta
+edit_1056,image_edit_magic_data/image_1056.png,without the accessories,remove,image_edit_meta
+edit_1057,image_edit_magic_data/image_1057.png,shave the beard and cut the hair,remove,image_edit_meta
+edit_1058,image_edit_magic_data/image_1058.png,remove the vest,remove,image_edit_meta
+edit_1059,image_edit_magic_data/image_1059.png,remove the digital tablet,remove,image_edit_meta
+edit_1060,image_edit_magic_data/image_1060.png,remove the leather jacket,remove,image_edit_meta
+edit_1061,image_edit_magic_data/image_1061.png,remove the beard and mustache,remove,image_edit_meta
+edit_1062,image_edit_magic_data/image_1062.png,remove the bridge,remove,image_edit_meta
+edit_1063,image_edit_magic_data/image_1063.png,get rid of the young man,remove,image_edit_meta
+edit_1064,image_edit_magic_data/image_1064.png,remove one of the women,remove,image_edit_meta
+edit_1065,image_edit_magic_data/image_1065.png,remove the butterfly,remove,image_edit_meta
+edit_1066,image_edit_magic_data/image_1066.png,remove the tattoo,remove,image_edit_meta
+edit_1067,image_edit_magic_data/image_1067.png,get rid of the sunglasses,remove,image_edit_meta
+edit_1068,image_edit_magic_data/image_1068.png,remove the coffee cup,remove,image_edit_meta
+edit_1069,image_edit_magic_data/image_1069.png,get rid of the grooming table,remove,image_edit_meta
+edit_1070,image_edit_magic_data/image_1070.png,remove the sign,remove,image_edit_meta
+edit_1071,image_edit_magic_data/image_1071.png,eliminate the glasses and the tattoo,remove,image_edit_meta
+edit_1072,image_edit_magic_data/image_1072.png,remove the soda,remove,image_edit_meta
+edit_1073,image_edit_magic_data/image_1073.png,get rid of the dog,remove,image_edit_meta
+edit_1074,image_edit_magic_data/image_1074.png,without the white mountains,remove,image_edit_meta
+edit_1075,image_edit_magic_data/image_1075.png,remove the polka dots,remove,image_edit_meta
+edit_1076,image_edit_magic_data/image_1076.png,remove the drinks,remove,image_edit_meta
+edit_1077,image_edit_magic_data/image_1077.png,shave the beard,remove,image_edit_meta
+edit_1078,image_edit_magic_data/image_1078.png,get rid of the young woman,remove,image_edit_meta
+edit_1079,image_edit_magic_data/image_1079.png,delete the table,remove,image_edit_meta
+edit_1080,image_edit_magic_data/image_1080.png,remove the headscarf,remove,image_edit_meta
+edit_1081,image_edit_magic_data/image_1081.png,remove the trophy,remove,image_edit_meta
+edit_1082,image_edit_magic_data/image_1082.png,remove the trophy,remove,image_edit_meta
+edit_1083,image_edit_magic_data/image_1083.png,remove the bag of bread,remove,image_edit_meta
+edit_1084,image_edit_magic_data/image_1084.png,make the couple be aliens,global,image_edit_meta
+edit_1085,image_edit_magic_data/image_1085.png,get rid of the muffin,remove,image_edit_meta
+edit_1086,image_edit_magic_data/image_1086.png,make her hair darker,global,image_edit_meta
+edit_1087,image_edit_magic_data/image_1087.png,change the tree to a giant mushroom,global,image_edit_meta
+edit_1088,image_edit_magic_data/image_1088.png,set them in a snowy place,global,image_edit_meta
+edit_1089,image_edit_magic_data/image_1089.png,set the pool to be filled with juice,global,image_edit_meta
+edit_1090,image_edit_magic_data/image_1090.png,she's now a superhero,global,image_edit_meta
+edit_1091,image_edit_magic_data/image_1091.png,replace the black dress with a colorful one,global,image_edit_meta
+edit_1092,image_edit_magic_data/image_1092.png,have the statue be made of ice,global,image_edit_meta
+edit_1093,image_edit_magic_data/image_1093.png,transform the background to a cozy living room,global,image_edit_meta
+edit_1094,image_edit_magic_data/image_1094.png,transform the moths into butterflies,global,image_edit_meta
+edit_1095,image_edit_magic_data/image_1095.png,change the drink to juice,global,image_edit_meta
+edit_1096,image_edit_magic_data/image_1096.png,take the family to a beach,global,image_edit_meta
+edit_1097,image_edit_magic_data/image_1097.png,change the atmosphere to a dark and mysterious forest,global,image_edit_meta
+edit_1098,image_edit_magic_data/image_1098.png,have them be in a futuristic city,global,image_edit_meta
+edit_1099,image_edit_magic_data/image_1099.png,have them drinking tea,global,image_edit_meta
+edit_1100,image_edit_magic_data/image_1100.png,turn into a painting,global,image_edit_meta
+edit_1101,image_edit_magic_data/image_1101.png,turn them into vampires,global,image_edit_meta
+edit_1102,image_edit_magic_data/image_1102.png,set the girl in a futuristic city,global,image_edit_meta
+edit_1103,image_edit_magic_data/image_1103.png,change the street to a forest,global,image_edit_meta
+edit_1104,image_edit_magic_data/image_1104.png,place him in a futuristic city,global,image_edit_meta
+edit_1105,image_edit_magic_data/image_1105.png,make it look like a watercolor painting,global,image_edit_meta
+edit_1106,image_edit_magic_data/image_1106.png,convert the flowers to butterflies,global,image_edit_meta
+edit_1107,image_edit_magic_data/image_1107.png,make the fishing trophy a giant goldfish,global,image_edit_meta
+edit_1108,image_edit_magic_data/image_1108.png,set it in a studio,global,image_edit_meta
+edit_1109,image_edit_magic_data/image_1109.png,replace the hat with a crown,global,image_edit_meta
+edit_1110,image_edit_magic_data/image_1110.png,age her 50 years,global,image_edit_meta
+edit_1111,image_edit_magic_data/image_1111.png,turn her hair into a lion's mane,global,image_edit_meta
+edit_1112,image_edit_magic_data/image_1112.png,have her do a handstand on a skateboard,global,image_edit_meta
+edit_1113,image_edit_magic_data/image_1113.png,transform into a futuristic city,global,image_edit_meta
+edit_1114,image_edit_magic_data/image_1114.png,change christmas theme to halloween,global,image_edit_meta
+edit_1115,image_edit_magic_data/image_1115.png,replace dog with cat,global,image_edit_meta
+edit_1116,image_edit_magic_data/image_1116.png,set the store in a futuristic city,global,image_edit_meta
+edit_1117,image_edit_magic_data/image_1117.png,have her wear a superhero costume,global,image_edit_meta
+edit_1118,image_edit_magic_data/image_1118.png,let's see her in a music concert,global,image_edit_meta
+edit_1119,image_edit_magic_data/image_1119.png,change the background to a savannah,global,image_edit_meta
+edit_1120,image_edit_magic_data/image_1120.png,change the background to a cityscape,global,image_edit_meta
+edit_1121,image_edit_magic_data/image_1121.png,give the surfer a shark tail,global,image_edit_meta
+edit_1122,image_edit_magic_data/image_1122.png,let's see her in a futuristic city,global,image_edit_meta
+edit_1123,image_edit_magic_data/image_1123.png,make him a superhero,global,image_edit_meta
+edit_1124,image_edit_magic_data/image_1124.png,convert to a painting,global,image_edit_meta
+edit_1125,image_edit_magic_data/image_1125.png,convert to a futuristic cityscape,global,image_edit_meta
+edit_1126,image_edit_magic_data/image_1126.png,make the forest more mystical,global,image_edit_meta
+edit_1127,image_edit_magic_data/image_1127.png,make her hair shorter,global,image_edit_meta
+edit_1128,image_edit_magic_data/image_1128.png,replace avocado with peanut butter,global,image_edit_meta
+edit_1129,image_edit_magic_data/image_1129.png,change the bottle to a magical potion,global,image_edit_meta
+edit_1130,image_edit_magic_data/image_1130.png,put the beekeeper in a spaceship,global,image_edit_meta
+edit_1131,image_edit_magic_data/image_1131.png,let's see it in spring,global,image_edit_meta
+edit_1132,image_edit_magic_data/image_1132.png,turn into a mischievous little boy,global,image_edit_meta
+edit_1133,image_edit_magic_data/image_1133.png,make her a superhero,global,image_edit_meta
+edit_1134,image_edit_magic_data/image_1134.png,make it a 3D sculpture,global,image_edit_meta
+edit_1135,image_edit_magic_data/image_1135.png,place the veterinarian and dog in a snowy environment,global,image_edit_meta
+edit_1136,image_edit_magic_data/image_1136.png,replace flower with a bird,global,image_edit_meta
+edit_1137,image_edit_magic_data/image_1137.png,make the robot evil,global,image_edit_meta
+edit_1138,image_edit_magic_data/image_1138.png,give him a robot arm,global,image_edit_meta
+edit_1139,image_edit_magic_data/image_1139.png,change hair to blonde,global,image_edit_meta
+edit_1140,image_edit_magic_data/image_1140.png,change the fruit to pineapple,global,image_edit_meta
+edit_1141,image_edit_magic_data/image_1141.png,change the background to a cityscape,global,image_edit_meta
+edit_1142,image_edit_magic_data/image_1142.png,change the season to summer,global,image_edit_meta
+edit_1143,image_edit_magic_data/image_1143.png,put her in a music concert,global,image_edit_meta
+edit_1144,image_edit_magic_data/image_1144.png,make the woman a superhero,global,image_edit_meta
+edit_1145,image_edit_magic_data/image_1145.png,have her hair flowing in the wind,global,image_edit_meta
+edit_1146,image_edit_magic_data/image_1146.png,make the couple elderly,global,image_edit_meta
+edit_1147,image_edit_magic_data/image_1147.png,take away the shed,global,image_edit_meta
+edit_1148,image_edit_magic_data/image_1148.png,have the bird fly around him,global,image_edit_meta
+edit_1149,image_edit_magic_data/image_1149.png,make it a painting,global,image_edit_meta
+edit_1150,image_edit_magic_data/image_1150.png,make the background a cityscape at sunset,global,image_edit_meta
+edit_1151,image_edit_magic_data/image_1151.png,have them take a selfie,global,image_edit_meta
+edit_1152,image_edit_magic_data/image_1152.png,have them be in space,global,image_edit_meta
+edit_1153,image_edit_magic_data/image_1153.png,more futuristic background,global,image_edit_meta
+edit_1154,image_edit_magic_data/image_1154.png,convert to a colorful illustration,global,image_edit_meta
+edit_1155,image_edit_magic_data/image_1155.png,give the man a superhero cape,global,image_edit_meta
+edit_1156,image_edit_magic_data/image_1156.png,let's see her in a futuristic cyberpunk setting,global,image_edit_meta
+edit_1157,image_edit_magic_data/image_1157.png,convert to a dark and spooky easter bunny,global,image_edit_meta
+edit_1158,image_edit_magic_data/image_1158.png,put a crown on the man,global,image_edit_meta
+edit_1159,image_edit_magic_data/image_1159.png,place her in a futuristic city,global,image_edit_meta
+edit_1160,image_edit_magic_data/image_1160.png,turn into a pizza,global,image_edit_meta
+edit_1161,image_edit_magic_data/image_1161.png,have the deer be in a circus,global,image_edit_meta
+edit_1162,image_edit_magic_data/image_1162.png,replace mountains with skyscrapers,global,image_edit_meta
+edit_1163,image_edit_magic_data/image_1163.png,change to a campfire setting,global,image_edit_meta
+edit_1164,image_edit_magic_data/image_1164.png,put a giant statue behind them,global,image_edit_meta
+edit_1165,image_edit_magic_data/image_1165.png,have the girl's hair be short and red,global,image_edit_meta
+edit_1166,image_edit_magic_data/image_1166.png,make it a desert road,global,image_edit_meta
+edit_1167,image_edit_magic_data/image_1167.png,put a book in her hand,global,image_edit_meta
+edit_1168,image_edit_magic_data/image_1168.png,have the rocks be colorful,global,image_edit_meta
+edit_1169,image_edit_magic_data/image_1169.png,put him in a soccer field,global,image_edit_meta
+edit_1170,image_edit_magic_data/image_1170.png,have the golden retriever be a unicorn,global,image_edit_meta
+edit_1171,image_edit_magic_data/image_1171.png,have the cat be a lion,global,image_edit_meta
+edit_1172,image_edit_magic_data/image_1172.png,make it raining,global,image_edit_meta
+edit_1173,image_edit_magic_data/image_1173.png,change the background to a beach,global,image_edit_meta
+edit_1174,image_edit_magic_data/image_1174.png,change the color of the dress to red,global,image_edit_meta
+edit_1175,image_edit_magic_data/image_1175.png,have them be in a garden,global,image_edit_meta
+edit_1176,image_edit_magic_data/image_1176.png,dress them in ancient greek clothing,global,image_edit_meta
+edit_1177,image_edit_magic_data/image_1177.png,make it a watercolor painting,global,image_edit_meta
+edit_1178,image_edit_magic_data/image_1178.png,let's see them in a western movie,global,image_edit_meta
+edit_1179,image_edit_magic_data/image_1179.png,change the gym to a temple,global,image_edit_meta
+edit_1180,image_edit_magic_data/image_1180.png,make her look away from the camera,global,image_edit_meta
+edit_1181,image_edit_magic_data/image_1181.png,have him wear a suit and tie,global,image_edit_meta
+edit_1182,image_edit_magic_data/image_1182.png,change the background to a cityscape,global,image_edit_meta
+edit_1183,image_edit_magic_data/image_1183.png,have her sunglasses be a superhero mask,global,image_edit_meta
+edit_1184,image_edit_magic_data/image_1184.png,make the background a garden,global,image_edit_meta
+edit_1185,image_edit_magic_data/image_1185.png,change the background to a dark forest,global,image_edit_meta
+edit_1186,image_edit_magic_data/image_1186.png,freeze the waterfall,global,image_edit_meta
+edit_1187,image_edit_magic_data/image_1187.png,put a unicorn next to her,global,image_edit_meta
+edit_1188,image_edit_magic_data/image_1188.png,make the mountain into a volcano,global,image_edit_meta
+edit_1189,image_edit_magic_data/image_1189.png,give her a crown,global,image_edit_meta
+edit_1190,image_edit_magic_data/image_1190.png,dress them up in elegant gowns,global,image_edit_meta
+edit_1191,image_edit_magic_data/image_1191.png,set her hair to rainbow,global,image_edit_meta
+edit_1192,image_edit_magic_data/image_1192.png,change the shirt to red,global,image_edit_meta
+edit_1193,image_edit_magic_data/image_1193.png,transform into a futuristic cityscape,global,image_edit_meta
+edit_1194,image_edit_magic_data/image_1194.png,set it in a futuristic city,global,image_edit_meta
+edit_1195,image_edit_magic_data/image_1195.png,place her in a field of wheat,global,image_edit_meta
+edit_1196,image_edit_magic_data/image_1196.png,have her swimsuit turn into a flowy dress,global,image_edit_meta
+edit_1197,image_edit_magic_data/image_1197.png,convert the office building into a resort,global,image_edit_meta
+edit_1198,image_edit_magic_data/image_1198.png,let's see her in a futuristic city,global,image_edit_meta
+edit_1199,image_edit_magic_data/image_1199.png,make it a bird's eye view,global,image_edit_meta
+edit_1200,image_edit_magic_data/image_1200.png,take off the winter coat,global,image_edit_meta
+edit_1201,image_edit_magic_data/image_1201.png,make it a 3D illustration,global,image_edit_meta
+edit_1202,image_edit_magic_data/image_1202.png,set it in the tropics,global,image_edit_meta
+edit_1203,image_edit_magic_data/image_1203.png,make it look like a mansion,global,image_edit_meta
+edit_1204,image_edit_magic_data/image_1204.png,make it a boy,global,image_edit_meta
+edit_1205,image_edit_magic_data/image_1205.png,place her in a tropical island,global,image_edit_meta
+edit_1206,image_edit_magic_data/image_1206.png,make it futuristic,global,image_edit_meta
+edit_1207,image_edit_magic_data/image_1207.png,change the season to spring,global,image_edit_meta
+edit_1208,image_edit_magic_data/image_1208.png,put a parrot on his shoulder,global,image_edit_meta
+edit_1209,image_edit_magic_data/image_1209.png,make the girl a scarecrow,global,image_edit_meta
+edit_1210,image_edit_magic_data/image_1210.png,make it into a modern art piece,global,image_edit_meta
+edit_1211,image_edit_magic_data/image_1211.png,make it a fantasy scene,global,image_edit_meta
+edit_1212,image_edit_magic_data/image_1212.png,make it summer,global,image_edit_meta
+edit_1213,image_edit_magic_data/image_1213.png,in the forest,global,image_edit_meta
+edit_1214,image_edit_magic_data/image_1214.png,have her wear a crown,global,image_edit_meta
+edit_1215,image_edit_magic_data/image_1215.png,make the flowers into butterflies,global,image_edit_meta
+edit_1216,image_edit_magic_data/image_1216.png,take the woman to a field of tulips,global,image_edit_meta
+edit_1217,image_edit_magic_data/image_1217.png,turn into a mermaid,global,image_edit_meta
+edit_1218,image_edit_magic_data/image_1218.png,replace the jewelry with a flower crown,global,image_edit_meta
+edit_1219,image_edit_magic_data/image_1219.png,have the boy play with a toy rocket instead,global,image_edit_meta
+edit_1220,image_edit_magic_data/image_1220.png,grow her hair long,global,image_edit_meta
+edit_1221,image_edit_magic_data/image_1221.png,have the puppy jump into a lake,global,image_edit_meta
+edit_1222,image_edit_magic_data/image_1222.png,place a guitar in his hands,add,image_edit_meta
+edit_1223,image_edit_magic_data/image_1223.png,add a cup of hot coffee,add,image_edit_meta
+edit_1224,image_edit_magic_data/image_1224.png,incorporate a disco ball,add,image_edit_meta
+edit_1225,image_edit_magic_data/image_1225.png,add a cigarette,add,image_edit_meta
+edit_1226,image_edit_magic_data/image_1226.png,add a scoop of ice cream,add,image_edit_meta
+edit_1227,image_edit_magic_data/image_1227.png,put a scarf on the father,add,image_edit_meta
+edit_1228,image_edit_magic_data/image_1228.png,Add a picturesque sunset in the background.,add,image_edit_meta
+edit_1229,image_edit_magic_data/image_1229.png,include a treehouse,add,image_edit_meta
+edit_1230,image_edit_magic_data/image_1230.png,add a small bird on the daughter's shoulder,add,image_edit_meta
+edit_1231,image_edit_magic_data/image_1231.png,add a beach ball to the scene,add,image_edit_meta
+edit_1232,image_edit_magic_data/image_1232.png,insert a stuffed animal on the bed,add,image_edit_meta
+edit_1233,image_edit_magic_data/image_1233.png,add a delicious grilled fish.,add,image_edit_meta
+edit_1234,image_edit_magic_data/image_1234.png,add a ice cream cone to the girl's hand,add,image_edit_meta
+edit_1235,image_edit_magic_data/image_1235.png,append a present,add,image_edit_meta
+edit_1236,image_edit_magic_data/image_1236.png,add a sailboat to the river,add,image_edit_meta
+edit_1237,image_edit_magic_data/image_1237.png,append a laptop to the table,add,image_edit_meta
+edit_1238,image_edit_magic_data/image_1238.png,set a dumbbell in her hand,add,image_edit_meta
+edit_1239,image_edit_magic_data/image_1239.png,insert a red umbrella in her hand,add,image_edit_meta
+edit_1240,image_edit_magic_data/image_1240.png,insert a lighthouse,add,image_edit_meta
+edit_1241,image_edit_magic_data/image_1241.png,set a book on the hay bale next to the young man.,add,image_edit_meta
+edit_1242,image_edit_magic_data/image_1242.png,have him hold a coconut,add,image_edit_meta
+edit_1243,image_edit_magic_data/image_1243.png,add a gladiator holding a sword and shield,add,image_edit_meta
+edit_1244,image_edit_magic_data/image_1244.png,incorporate a rubber duck,add,image_edit_meta
+edit_1245,image_edit_magic_data/image_1245.png,place a cute little bird on her shoulder,add,image_edit_meta
+edit_1246,image_edit_magic_data/image_1246.png,incorporate a bouquet of flowers,add,image_edit_meta
+edit_1247,image_edit_magic_data/image_1247.png,add a sailboat in the background,add,image_edit_meta
+edit_1248,image_edit_magic_data/image_1248.png,add a golden crown to one of the pomegranates,add,image_edit_meta
+edit_1249,image_edit_magic_data/image_1249.png,set a pink background,add,image_edit_meta
+edit_1250,image_edit_magic_data/image_1250.png,add a sweat towel over his shoulder,add,image_edit_meta
+edit_1251,image_edit_magic_data/image_1251.png,add a cute little puppy following them,add,image_edit_meta
+edit_1252,image_edit_magic_data/image_1252.png,add a pair of sunglasses on the young man,add,image_edit_meta
+edit_1253,image_edit_magic_data/image_1253.png,add a charming smile to the woman,add,image_edit_meta
+edit_1254,image_edit_magic_data/image_1254.png,insert a peacock feather in her hair,add,image_edit_meta
+edit_1255,image_edit_magic_data/image_1255.png,incorporate a bright moon in the sky,add,image_edit_meta
+edit_1256,image_edit_magic_data/image_1256.png,add a pair of dangling earrings,add,image_edit_meta
+edit_1257,image_edit_magic_data/image_1257.png,add a scoop,add,image_edit_meta
